@@ -207,7 +207,7 @@ h1, h2, h3, h4, .range-badge {
 /* Main Grid Layout */
 .main-columns {
   display: grid;
-  grid-template-columns: 380px 1fr;
+  grid-template-columns: 340px 1fr;
   gap: 20px;
   flex: 1;
   min-height: 450px;
@@ -861,8 +861,8 @@ h1, h2, h3, h4, .range-badge {
   color: var(--text-muted);
 }
 
-/* Responsive adjustments for layouts under 900px */
-@media (max-width: 900px) {
+/* Responsive adjustments for layouts under 768px (tablets and mobile) */
+@media (max-width: 768px) {
   html, body {
     height: auto;
     overflow-y: auto;
@@ -896,17 +896,19 @@ h1, h2, h3, h4, .range-badge {
   }
   
   .list-section, .scorecard-section {
-    height: auto;
+    height: 450px; /* Lock height on mobile/tablet so scorecard is visible and scrolls locally */
     min-height: 0;
   }
   
   .author-list-container, .scorecard-card {
     height: auto;
-    max-height: 600px; /* Cap vertical height to allow local scroll, or auto expand */
+    max-height: 350px; /* Cap list height so both sections fit better stacked */
     overflow-y: auto;
   }
-  
-  /* On mobile screens, distribution grids wrap naturally, spacing out summaries */
+}
+
+/* Distribution grid column overrides */
+@media (max-width: 1100px) {
   .distribution-grid {
     grid-template-columns: repeat(2, 1fr);
   }

@@ -1,0 +1,21 @@
+# Credentials and secrets
+.env
+linkedin_cookie.txt
+
+# Temp and debug files
+*debug.html
+*sample.html
+parse.html
+temp_*.txt
+temp.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db

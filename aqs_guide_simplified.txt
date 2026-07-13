@@ -1,0 +1,86 @@
+DA12 Dimension Analysis Guidelines (Lite Model Optimized)
+
+D1 Thought Leadership Status (Weight: 41.4)
+- 10-25%: Local/company lead. Senior engineer or manager.
+- 25-50%: Recognized industry expert. Author of technical books/courses or minor blogs.
+- 50-75%: Regional/national speaker, author of multiple books/popular courses, recognized domain authority.
+- 75-90%: Major global thought leader, keynote speaker at global conferences, widely cited.
+- 90%+: Field-defining authority (e.g. creator of a programming language, major framework, or globally adopted standard).
+
+D2 Tech Demand (Weight: 33.0)
+- 10-30%: Legacy or low-demand niche technologies.
+- 30-60%: Moderate/high demand tech (e.g. standard web development, Python/C++/Java, standard SQL databases).
+- 60-90%: High growth/trending tech (e.g. Cloud Security, Rust, Go, Swift, DevOps, Kubernetes).
+- 90%+: Hyper-demand/cutting edge (e.g. Generative AI, Large Language Models, Cybersecurity Pen-Testing, Blockchain).
+
+D3 Alignment (Weight: 27.6)
+- 10-30%: Indirect or vague fit to the book topic.
+- 30-60%: Moderate fit, has some professional experience in the topic area.
+- 60-90%: High fit, direct professional/research experience in the specific topic of the book.
+- 90%+: Perfect fit, world-class alignment (e.g. author of the library or lead developer of the technology).
+
+D4 Experience (Weight: 27.6)
+- 10-30%: 1-5 years of technical experience.
+- 30-60%: 5-10 years.
+- 60-80%: 10-15 years.
+- 80-90%: 15-20 years.
+- 90%+: >20 years.
+
+D5 Expertise (Weight: 27.6)
+- 10-30%: Intermediate level practitioner/developer.
+- 30-60%: Senior developer/architect.
+- 60-90%: Principal Engineer, Tech Director, or specialized Subject Matter Expert.
+- 90%+: Leading global researcher or senior fellow.
+
+D6 Recognition (Weight: 21.9)
+- 10-30%: Internal company awards or general contributor.
+- 30-60%: Certified professional, MVP, speaker at local/minor events.
+- 60-90%: Major professional certifications (e.g. AWS Solutions Architect, CISA), Microsoft MVP, speaker at large conferences.
+- 90%+: International awards, keynotes.
+
+D7 Innovation (Weight: 24.0)
+- 10-30%: Standard commercial development. No open source projects or patents.
+- 30-60%: Contributor to open source, minor technical innovations/patents.
+- 60-90%: Creator of popular libraries/tools, core contributor to major projects.
+- 90%+: Creator of major open source technologies (e.g. Python, Linux, Swift).
+
+D8 Publications (Weight: 11.1)
+- 10-30%: Minor blog posts or code documentation.
+- 30-60%: 1 technical book or major online course published.
+- 60-90%: 2-5 technical books or courses.
+- 90%+: >5 books or highly cited research papers.
+
+D9 Reach (Weight: 54.9) -> Map directly to verified reach numbers:
+- 0-10%: No reach evidence/Unknown.
+- 10-20%: <1k followers/students.
+- 20-30%: 1k-5k followers/students.
+- 30-40%: 5k-20k followers/students.
+- 40-50%: 20k-50k followers/students.
+- 50-60%: 50k-75k followers/students.
+- 60-70%: 75k-100k followers/students.
+- 70-79%: 100k-200k followers/students.
+- 80-89%: 200k-500k followers/students.
+- 90%+: >500k followers/students.
+
+D10 Writing Quality (Weight: 16.5)
+- 10-30%: Basic documentation/comments.
+- 30-60%: Clean articles, tutorials, clear writing style.
+- 60-90%: Engaging writer, well-structured books or popular newsletters.
+
+D11 Academic Credentials (Weight: 11.1)
+- 10-30%: Self-taught or professional certifications.
+- 30-60%: Bachelor's degree in CS/engineering.
+- 60-80%: Master's degree in CS/engineering.
+- 80-90%: Ph.D. or degree from a top-tier global university.
+
+D12 Cross-disciplinary Reach (Weight: 3.3)
+- 10-30%: Niche technical focus only.
+- 30-60%: Tech + management or business.
+- 60-90%: Multidisciplinary projects (e.g. Tech + Art, Tech + Health).
+- 90%+: Globally recognized influencer across multiple fields.
+
+CORE ALIGNMENT CONSTRAINT:
+To prevent score inflation and preserve zero-based evidence integrity:
+- If D9 (Reach) is scored < 30% (meaning <5k followers/students), then D1 (Thought Leadership), D5 (Expertise), and D6 (Recognition) MUST NOT exceed 50%, regardless of how impressive the job title or bio sounds. True thought leadership and status require verified public reach and recognition.
+- If D8 (Publications) is > 50% (multiple books/courses), but D9 (Reach) is < 30% (low reach), it indicates the publications have low readership/impact, so you must keep D1, D5, and D6 below 50%.
+

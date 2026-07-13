@@ -1,0 +1,80 @@
+"Samuel González-Castillo" site:linkedin.com/in
+"Samuel González-Castillo" site:github.com OR site:udemy.com/user OR site:medium.com
+"Gary Hibberd" site:linkedin.com/in
+"Gary Hibberd" site:github.com OR site:udemy.com/user OR site:medium.com
+"Robert A. Clark" site:linkedin.com/in
+"Robert A. Clark" site:github.com OR site:udemy.com/user OR site:medium.com
+"Alan Calder" site:linkedin.com/in
+"Alan Calder" site:github.com OR site:udemy.com/user OR site:medium.com
+"Bridget Kenyon" site:linkedin.com/in
+"Bridget Kenyon" site:github.com OR site:udemy.com/user OR site:medium.com
+"John P. Doran" site:linkedin.com/in
+"John P. Doran" site:github.com OR site:udemy.com/user OR site:medium.com
+"Lentin Joseph" site:linkedin.com/in
+"Lentin Joseph" site:github.com OR site:udemy.com/user OR site:medium.com
+"Jonathan Cacace" site:linkedin.com/in
+"Jonathan Cacace" site:github.com OR site:udemy.com/user OR site:medium.com
+"Kelley O'Connell" site:linkedin.com/in
+"Kelley O'Connell" site:github.com OR site:udemy.com/user OR site:medium.com
+"Mark Birch" site:linkedin.com/in
+"Mark Birch" site:github.com OR site:udemy.com/user OR site:medium.com
+"Bi Yue Xu" site:linkedin.com/in
+"Bi Yue Xu" site:github.com OR site:udemy.com/user OR site:medium.com
+"Rod Trent" site:linkedin.com/in
+"Rod Trent" site:github.com OR site:udemy.com/user OR site:medium.com
+"Alan Field" site:linkedin.com/in
+"Alan Field" site:github.com OR site:udemy.com/user OR site:medium.com
+"Naeem Sadiq" site:linkedin.com/in
+"Naeem Sadiq" site:github.com OR site:udemy.com/user OR site:medium.com
+"Julie E. Mehan" site:linkedin.com/in
+"Julie E. Mehan" site:github.com OR site:udemy.com/user OR site:medium.com
+"Richard Bingley" site:linkedin.com/in
+"Richard Bingley" site:github.com OR site:udemy.com/user OR site:medium.com
+"Daniel McLean" site:linkedin.com/in
+"Daniel McLean" site:github.com OR site:udemy.com/user OR site:medium.com
+"Stephen Hancock" site:linkedin.com/in
+"Stephen Hancock" site:github.com OR site:udemy.com/user OR site:medium.com
+"Aldo Marzullo" site:linkedin.com/in
+"Aldo Marzullo" site:github.com OR site:udemy.com/user OR site:medium.com
+"Enrico Deusebio" site:linkedin.com/in
+"Enrico Deusebio" site:github.com OR site:udemy.com/user OR site:medium.com
+"Claudio Stamile" site:linkedin.com/in
+"Claudio Stamile" site:github.com OR site:udemy.com/user OR site:medium.com
+"Brian Johnson" site:linkedin.com/in
+"Brian Johnson" site:github.com OR site:udemy.com/user OR site:medium.com
+"Walter Zondervan" site:linkedin.com/in
+"Walter Zondervan" site:github.com OR site:udemy.com/user OR site:medium.com
+"Léon-Paul de Rouw" site:linkedin.com/in
+"Léon-Paul de Rouw" site:github.com OR site:udemy.com/user OR site:medium.com
+"Angelo Esposito" site:linkedin.com/in
+"Angelo Esposito" site:github.com OR site:udemy.com/user OR site:medium.com
+"Timothy Rogers" site:linkedin.com/in
+"Timothy Rogers" site:github.com OR site:udemy.com/user OR site:medium.com
+"Sanjay Nair" site:linkedin.com/in
+"Sanjay Nair" site:github.com OR site:udemy.com/user OR site:medium.com
+"IT Governance Privacy Team" site:linkedin.com/in
+"IT Governance Privacy Team" site:github.com OR site:udemy.com/user OR site:medium.com
+"Preston Bukaty" site:linkedin.com/in
+"Preston Bukaty" site:github.com OR site:udemy.com/user OR site:medium.com
+"David Barrow" site:linkedin.com/in
+"David Barrow" site:github.com OR site:udemy.com/user OR site:medium.com
+"Jamie Lynn Cooke" site:linkedin.com/in
+"Jamie Lynn Cooke" site:github.com OR site:udemy.com/user OR site:medium.com
+"Lee Newcombe" site:linkedin.com/in
+"Lee Newcombe" site:github.com OR site:udemy.com/user OR site:medium.com
+"Salvatore Raieli" site:linkedin.com/in
+"Salvatore Raieli" site:github.com OR site:udemy.com/user OR site:medium.com
+"Gabriele Iuculano" site:linkedin.com/in
+"Gabriele Iuculano" site:github.com OR site:udemy.com/user OR site:medium.com
+"Mehul Gupta" site:linkedin.com/in
+"Mehul Gupta" site:github.com OR site:udemy.com/user OR site:medium.com
+"Niladri Sen" site:linkedin.com/in
+"Niladri Sen" site:github.com OR site:udemy.com/user OR site:medium.com
+"Asif Hayat Khan" site:linkedin.com/in
+"Asif Hayat Khan" site:github.com OR site:udemy.com/user OR site:medium.com
+"Colin Bentley" site:linkedin.com/in
+"Colin Bentley" site:github.com OR site:udemy.com/user OR site:medium.com
+"Carl Rippon" site:linkedin.com/in
+"Carl Rippon" site:github.com OR site:udemy.com/user OR site:medium.com
+"Amar Mahmutbegović" site:linkedin.com/in
+"Amar Mahmutbegović" site:github.com OR site:udemy.com/user OR site:medium.com

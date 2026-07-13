@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AQS Scoring & Sense-Check Dashboard</title>
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <!-- Chart.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <!-- FontAwesome Icons for modern visuals -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="logo-area">
+        <i class="fa-solid fa-graduation-cap logo-icon"></i>
+        <div>
+          <h1>AQS Scoring System</h1>
+          <p class="subtitle">Author Quotient of Status &bull; Sense-Check Dashboard</p>
+        </div>
+      </div>
+      <div class="header-metadata">
+        <div class="meta-badge">
+          <i class="fa-solid fa-brain"></i>
+          <span>Model: Gemini 3.5 Flash</span>
+        </div>
+        <div class="meta-badge">
+          <i class="fa-solid fa-vial"></i>
+          <span>Batch: 20 Test Authors</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- Dashboard Content -->
+    <main class="dashboard-content">
+      
+      <!-- Top Summary Metrics (Sense Check) -->
+      <section class="summary-section">
+        <div class="summary-card text-glow">
+          <div class="card-icon"><i class="fa-solid fa-users"></i></div>
+          <div class="card-info">
+            <span class="card-label">Authors Evaluated</span>
+            <span class="card-value" id="stat-total">0</span>
+          </div>
+        </div>
+        <div class="summary-card">
+          <div class="card-icon"><i class="fa-solid fa-file-invoice"></i></div>
+          <div class="card-info">
+            <span class="card-label">Avg Existing AQS</span>
+            <span class="card-value" id="stat-avg-existing">0.0</span>
+          </div>
+        </div>
+        <div class="summary-card">
+          <div class="card-icon"><i class="fa-solid fa-calculator"></i></div>
+          <div class="card-info">
+            <span class="card-label">Avg Computed AQS</span>
+            <span class="card-value" id="stat-avg-computed">0.0</span>
+          </div>
+        </div>
+        <div class="summary-card text-glow-green" id="mae-card">
+          <div class="card-icon"><i class="fa-solid fa-circle-check"></i></div>
+          <div class="card-info">
+            <span class="card-label">Mean Absolute Error</span>
+            <span class="card-value" id="stat-mae">0.0</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Cohort Distribution Section -->
+      <section class="distribution-section">
+        <div class="distribution-header">
+          <h3><i class="fa-solid fa-chart-simple"></i> Cohort Distribution & Shift Analysis</h3>
+          <p class="subtitle">Distribution comparison of computed scores vs. existing AQS scores across all evaluated authors</p>
+        </div>
+        <div class="distribution-grid" id="cohorts-distribution-container">
+          <!-- Populated dynamically via JS -->
+        </div>
+      </section>
+
+      <!-- Main Columns -->
+      <div class="main-columns">
+        
+        <!-- Left Side: Author List & Filters -->
+        <section class="list-section">
+          <div class="section-card header-sticky">
+            <div class="search-box">
+              <i class="fa-solid fa-magnifying-glass search-icon"></i>
+              <input type="text" id="search-input" placeholder="Search authors by name...">
+            </div>
+            
+            <div class="filter-box">
+              <label for="range-filter">AQS Range:</label>
+              <select id="range-filter">
+                <option value="all">All Ranges</option>
+                <option value="canonical">Canonical Leader (260-300)</option>
+                <option value="emerging">Emerging Leader (230-260)</option>
+                <option value="rockstar">IT Rockstar (190-230)</option>
+                <option value="expert">Industry Expert (160-190)</option>
+                <option value="specialist">Topic Specialist (130-160)</option>
+                <option value="pro">Tech Pro (100-130)</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="author-list-container" id="author-list">
+            <!-- Loading indicator -->
+            <div class="loading-state">
+              <i class="fa-solid fa-spinner fa-spin"></i>
+              <p>Analyzing AQS scores & loading results...</p>
+            </div>
+          </div>
+        </section>
+
+        <!-- Right Side: Detailed Profile & Scorecard -->
+        <section class="scorecard-section">
+          <div id="no-selection-state" class="no-selection-card">
+            <i class="fa-solid fa-address-card selection-placeholder-icon"></i>
+            <h3>Select an Author</h3>
+            <p>Click on any author from the list to view their detailed AQS scorecard, comparison analysis, and dimension-by-dimension justifications.</p>
+          </div>
+
+          <div id="scorecard-details" class="scorecard-card hidden">
+            <!-- Author Header Info -->
+            <div class="scorecard-header">
+              <div class="author-identity">
+                <h2 id="author-detail-name">Author Name</h2>
+                <p class="author-book" id="author-detail-book"><i class="fa-solid fa-book"></i> Book Title</p>
+                <div class="author-social-links" id="author-detail-social">
+                  <!-- Links filled via JS -->
+                </div>
+              </div>
+              <div class="author-badges">
+                <span class="range-badge" id="author-detail-badge">IT Rockstar</span>
+              </div>
+            </div>
+
+            <!-- Comparison Block -->
+            <div class="comparison-bar">
+              <div class="score-stat">
+                <span class="score-stat-label">Existing AQS Score</span>
+                <span class="score-stat-val" id="score-val-existing">0</span>
+              </div>
+              <div class="score-comparison-arrow">
+                <i class="fa-solid fa-right-long" id="comp-arrow-icon"></i>
+              </div>
+              <div class="score-stat">
+                <span class="score-stat-label">Computed AQS Score</span>
+                <span class="score-stat-val" id="score-val-computed">0</span>
+              </div>
+              <div class="score-variance-badge" id="score-variance">
+                +2 (Range Match)
+              </div>
+            </div>
+
+            <!-- Bio / Description -->
+            <div class="bio-container">
+              <h4>Author Biography</h4>
+              <p id="author-detail-bio">Biography text goes here...</p>
+            </div>
+
+            <!-- Visual Dimensions Radar Chart -->
+            <div class="chart-container">
+              <h4>DA12 Framework Dimension Map (Score %)</h4>
+              <div class="chart-wrapper">
+                <canvas id="aqs-radar-chart"></canvas>
+              </div>
+            </div>
+
+            <!-- 12 Dimensions Detailed Cards -->
+            <div class="dimensions-breakdown">
+              <h4>Detailed Dimensions Breakdown (DA12)</h4>
+              <div class="dimensions-grid" id="dimensions-container">
+                <!-- Dimension cards filled by JS -->
+              </div>
+            </div>
+
+          </div>
+        </section>
+
+      </div>
+    </main>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

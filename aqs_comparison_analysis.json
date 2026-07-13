@@ -1,0 +1,425 @@
+[
+  {
+    "author_name":"Mr. Jaime Buelta",
+    "rl_raw_name":"Jaime Buelta",
+    "computed_aqs":156,
+    "rl_aqs":190.0,
+    "difference":-34.0,
+    "rl_name":"Denim",
+    "file_color":"BLUE"
+  },
+  {
+    "author_name":"Amar Mahmutbegovi\u0107",
+    "rl_raw_name":"Amar Mahmutbegovi\u0107",
+    "computed_aqs":144,
+    "rl_aqs":171.0,
+    "difference":-27.0,
+    "rl_name":"Dhruv",
+    "file_color":"BLUE"
+  },
+  {
+    "author_name":"Ajay Chankramath",
+    "rl_raw_name":"Ajay Chankramath",
+    "computed_aqs":173,
+    "rl_aqs":180.0,
+    "difference":-7.0,
+    "rl_name":"Srishti",
+    "file_color":"BLUE"
+  },
+  {
+    "author_name":"Mr. Gabriel Baptista",
+    "rl_raw_name":"Gabriel Baptista",
+    "computed_aqs":155,
+    "rl_aqs":240.0,
+    "difference":-85.0,
+    "rl_name":"Srishti",
+    "file_color":"BLUE"
+  },
+  {
+    "author_name":"Mr. Vladimir Dementyev",
+    "rl_raw_name":"Vladimir Dementyev",
+    "computed_aqs":155,
+    "rl_aqs":170.0,
+    "difference":-15.0,
+    "rl_name":"AaronL",
+    "file_color":"BLUE"
+  },
+  {
+    "author_name":"Toi B. Wright",
+    "rl_raw_name":"Toi B Wright",
+    "computed_aqs":155,
+    "rl_aqs":182.0,
+    "difference":-27.0,
+    "rl_name":"AaronL",
+    "file_color":"BLUE"
+  },
+  {
+    "author_name":"Francesco Ciulla",
+    "rl_raw_name":"Francesco Ciulla",
+    "computed_aqs":154,
+    "rl_aqs":202.0,
+    "difference":-48.0,
+    "rl_name":"AaronL",
+    "file_color":"BLUE"
+  },
+  {
+    "author_name":"Eden Marco",
+    "rl_raw_name":"Eden Marco",
+    "computed_aqs":162,
+    "rl_aqs":176.0,
+    "difference":-14.0,
+    "rl_name":"AaronL",
+    "file_color":"BLUE"
+  },
+  {
+    "author_name":"Denis Boudreau",
+    "rl_raw_name":"Denis Boudreau",
+    "computed_aqs":192,
+    "rl_aqs":189.0,
+    "difference":3.0,
+    "rl_name":"Nitin",
+    "file_color":"BLUE"
+  },
+  {
+    "author_name":"Aristeidis Bampakos",
+    "rl_raw_name":"Aristeidis Bampakos",
+    "computed_aqs":187,
+    "rl_aqs":163.0,
+    "difference":24.0,
+    "rl_name":"Nitin",
+    "file_color":"BLUE"
+  },
+  {
+    "author_name":"Mr. Alan Alickovic",
+    "rl_raw_name":"Alan Alickovic",
+    "computed_aqs":163,
+    "rl_aqs":129.0,
+    "difference":34.0,
+    "rl_name":"Bhavya",
+    "file_color":"BLUE"
+  },
+  {
+    "author_name":"Anthony Alicea",
+    "rl_raw_name":"Anthony Alicea",
+    "computed_aqs":215,
+    "rl_aqs":198.0,
+    "difference":17.0,
+    "rl_name":"Bhavya",
+    "file_color":"BLUE"
+  },
+  {
+    "author_name":"Toi B. Wright",
+    "rl_raw_name":"Toi Wright",
+    "computed_aqs":155,
+    "rl_aqs":148.0,
+    "difference":7.0,
+    "rl_name":"Bhavya",
+    "file_color":"BLUE"
+  },
+  {
+    "author_name":"Eden Marco",
+    "rl_raw_name":"Eden Marco",
+    "computed_aqs":162,
+    "rl_aqs":189.0,
+    "difference":-27.0,
+    "rl_name":"Sneha",
+    "file_color":"BLUE"
+  },
+  {
+    "author_name":"Dr. Sanjay Krishna Anbalagan",
+    "rl_raw_name":"Sanjay Krishna Anbalagan",
+    "computed_aqs":150,
+    "rl_aqs":171.0,
+    "difference":-21.0,
+    "rl_name":"Sneha",
+    "file_color":"BLUE"
+  },
+  {
+    "author_name":"Mr. Dave Poirier",
+    "rl_raw_name":"Dave Poirier",
+    "computed_aqs":146,
+    "rl_aqs":182.0,
+    "difference":-36.0,
+    "rl_name":"Sohini",
+    "file_color":"BLUE"
+  },
+  {
+    "author_name":"Deya Elkhawaldeh",
+    "rl_raw_name":"Deya Eldeen Elkhawaldeh",
+    "computed_aqs":130,
+    "rl_aqs":176.0,
+    "difference":-46.0,
+    "rl_name":"Sohini",
+    "file_color":"BLUE"
+  },
+  {
+    "author_name":"Mr. Mark J. Price",
+    "rl_raw_name":"Mark J. Price",
+    "computed_aqs":176,
+    "rl_aqs":191.0,
+    "difference":-15.0,
+    "rl_name":"Suman",
+    "file_color":"BLUE"
+  },
+  {
+    "author_name":"Ms. Maaike van Putten",
+    "rl_raw_name":"Maaike Van Putten",
+    "computed_aqs":189,
+    "rl_aqs":208.0,
+    "difference":-19.0,
+    "rl_name":"Suman",
+    "file_color":"BLUE"
+  },
+  {
+    "author_name":"Laurence Svekis",
+    "rl_raw_name":"Laurence Svekis",
+    "computed_aqs":145,
+    "rl_aqs":191.0,
+    "difference":-46.0,
+    "rl_name":"Suman",
+    "file_color":"BLUE"
+  },
+  {
+    "author_name":"Marco Secchi",
+    "rl_raw_name":"Marco Secchi",
+    "computed_aqs":187,
+    "rl_aqs":160.0,
+    "difference":27.0,
+    "rl_name":"Neha",
+    "file_color":"BLUE"
+  },
+  {
+    "author_name":"Tim Rains",
+    "rl_raw_name":"Tim Rains",
+    "computed_aqs":165,
+    "rl_aqs":170.0,
+    "difference":-5.0,
+    "rl_name":"Rahul",
+    "file_color":"GREEN"
+  },
+  {
+    "author_name":"Glen D. Singh",
+    "rl_raw_name":"Glen D Singh",
+    "computed_aqs":193,
+    "rl_aqs":170.0,
+    "difference":23.0,
+    "rl_name":"Rahul",
+    "file_color":"GREEN"
+  },
+  {
+    "author_name":"Mr. Kris Kimmerle",
+    "rl_raw_name":"Kris Kimmerle",
+    "computed_aqs":149,
+    "rl_aqs":180.0,
+    "difference":-31.0,
+    "rl_name":"Niranjan",
+    "file_color":"GREEN"
+  },
+  {
+    "author_name":"David Okeyode",
+    "rl_raw_name":"David Okeyode",
+    "computed_aqs":168,
+    "rl_aqs":203.0,
+    "difference":-35.0,
+    "rl_name":"Niranjan",
+    "file_color":"GREEN"
+  },
+  {
+    "author_name":"Ken Huang",
+    "rl_raw_name":"Ken Huang",
+    "computed_aqs":179,
+    "rl_aqs":224.0,
+    "difference":-45.0,
+    "rl_name":"Niranjan",
+    "file_color":"GREEN"
+  },
+  {
+    "author_name":"Joe Anich",
+    "rl_raw_name":"Joe Anich",
+    "computed_aqs":132,
+    "rl_aqs":168.0,
+    "difference":-36.0,
+    "rl_name":"Anindya",
+    "file_color":"GREEN"
+  },
+  {
+    "author_name":"Mr. Hemang Doshi",
+    "rl_raw_name":"Hemang Doshi",
+    "computed_aqs":214,
+    "rl_aqs":177.0,
+    "difference":37.0,
+    "rl_name":"Anindya",
+    "file_color":"GREEN"
+  },
+  {
+    "author_name":"Mr. Gianluca Tiepolo",
+    "rl_raw_name":"Gianluca Tiepolo",
+    "computed_aqs":150,
+    "rl_aqs":158.0,
+    "difference":-8.0,
+    "rl_name":"Anindya",
+    "file_color":"GREEN"
+  },
+  {
+    "author_name":"Mr. Donald A. Tevault",
+    "rl_raw_name":"Donald Tevault",
+    "computed_aqs":153,
+    "rl_aqs":195.0,
+    "difference":-42.0,
+    "rl_name":"Aaron",
+    "file_color":"GREEN"
+  },
+  {
+    "author_name":"Saurabh Shrivastava",
+    "rl_raw_name":"Saurabh Shrivastava",
+    "computed_aqs":170,
+    "rl_aqs":188.0,
+    "difference":-18.0,
+    "rl_name":"Aaron",
+    "file_color":"GREEN"
+  },
+  {
+    "author_name":"Dhiraj Thakur",
+    "rl_raw_name":"Dhiraj Thakur",
+    "computed_aqs":139,
+    "rl_aqs":176.0,
+    "difference":-37.0,
+    "rl_name":"Aaron",
+    "file_color":"GREEN"
+  },
+  {
+    "author_name":"Neelanjali Srivastav",
+    "rl_raw_name":"Neelanjali (Neeli) Srivastav",
+    "computed_aqs":153,
+    "rl_aqs":181.0,
+    "difference":-28.0,
+    "rl_name":"Aaron",
+    "file_color":"GREEN"
+  },
+  {
+    "author_name":"Mr. Steve Miles",
+    "rl_raw_name":"Steve Miles",
+    "computed_aqs":171,
+    "rl_aqs":177.0,
+    "difference":-6.0,
+    "rl_name":"PrachiR",
+    "file_color":"GREEN"
+  },
+  {
+    "author_name":"Greg Deckler",
+    "rl_raw_name":"Greg Deckler",
+    "computed_aqs":153,
+    "rl_aqs":183.0,
+    "difference":-30.0,
+    "rl_name":"Apeksha",
+    "file_color":"RED"
+  },
+  {
+    "author_name":"Vikash Gupta",
+    "rl_raw_name":"Vikash Gupta",
+    "computed_aqs":172,
+    "rl_aqs":168.0,
+    "difference":4.0,
+    "rl_name":"Nilesh",
+    "file_color":"RED"
+  },
+  {
+    "author_name":"Dr. Quentin Gallea",
+    "rl_raw_name":"Quentin Gallea, PhD",
+    "computed_aqs":158,
+    "rl_aqs":170.0,
+    "difference":-12.0,
+    "rl_name":"Nilesh",
+    "file_color":"RED"
+  },
+  {
+    "author_name":"Ken Huang",
+    "rl_raw_name":"Ken Huang",
+    "computed_aqs":179,
+    "rl_aqs":164.0,
+    "difference":15.0,
+    "rl_name":"Teny",
+    "file_color":"RED"
+  },
+  {
+    "author_name":"Dr. Quentin Gallea",
+    "rl_raw_name":"Quentin Gallea",
+    "computed_aqs":158,
+    "rl_aqs":193.0,
+    "difference":-35.0,
+    "rl_name":"Teny",
+    "file_color":"RED"
+  },
+  {
+    "author_name":"David Rold\u00e1n Mart\u00ednez",
+    "rl_raw_name":"David Rold\u00e1n Mart\u00ednez",
+    "computed_aqs":155,
+    "rl_aqs":175.0,
+    "difference":-20.0,
+    "rl_name":"Alok",
+    "file_color":"RED"
+  },
+  {
+    "author_name":"Mr. Srinivasan Shanmuganathan",
+    "rl_raw_name":"Srinivasan Shanmuganathan",
+    "computed_aqs":161,
+    "rl_aqs":173.0,
+    "difference":-12.0,
+    "rl_name":"Alok",
+    "file_color":"RED"
+  },
+  {
+    "author_name":"Mr. Abhijit Dey",
+    "rl_raw_name":"Abhijit Dey",
+    "computed_aqs":172,
+    "rl_aqs":169.0,
+    "difference":3.0,
+    "rl_name":"Alok",
+    "file_color":"RED"
+  },
+  {
+    "author_name":"Peter Ries",
+    "rl_raw_name":"Peter Ries",
+    "computed_aqs":117,
+    "rl_aqs":160.0,
+    "difference":-43.0,
+    "rl_name":"Alok",
+    "file_color":"RED"
+  },
+  {
+    "author_name":"Mr. Joshua Au-Yeung",
+    "rl_raw_name":"Joshua Au-Yeung",
+    "computed_aqs":122,
+    "rl_aqs":155.0,
+    "difference":-33.0,
+    "rl_name":"Larissa",
+    "file_color":"RED"
+  },
+  {
+    "author_name":"Mr. Steve Miles",
+    "rl_raw_name":"Steve Miles",
+    "computed_aqs":171,
+    "rl_aqs":174.0,
+    "difference":-3.0,
+    "rl_name":"Larissa",
+    "file_color":"RED"
+  },
+  {
+    "author_name":"Bill Jelen",
+    "rl_raw_name":"Bill Jelen",
+    "computed_aqs":229,
+    "rl_aqs":174.0,
+    "difference":55.0,
+    "rl_name":"Larissa",
+    "file_color":"RED"
+  },
+  {
+    "author_name":"Lars Malmqvist",
+    "rl_raw_name":"Lars Malmqvist",
+    "computed_aqs":173,
+    "rl_aqs":176.0,
+    "difference":-3.0,
+    "rl_name":"Riyan",
+    "file_color":"RED"
+  }
+]

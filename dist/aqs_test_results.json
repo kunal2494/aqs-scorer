@@ -30606,21 +30606,21 @@
     "success": true,
     "name": "Harrison Ferrone",
     "existing_aqs": 0.0,
-    "computed_aqs": 173,
-    "difference": 173.0,
+    "computed_aqs": 195,
+    "difference": 195.0,
     "dimensions": {
       "D9": {
         "name": "Reach",
         "weight": 54.9,
-        "score_percent": 50,
-        "points": 27,
-        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 20,000."
+        "score_percent": 60,
+        "points": 32,
+        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 25,000."
       },
       "D1": {
         "name": "Thought Leadership Status",
         "weight": 41.4,
-        "score_percent": 75,
-        "points": 31,
+        "score_percent": 80,
+        "points": 33,
         "justification": "[Heuristic Web Search Assessment] Globally recognized industry domain authority with extensive publications and impact."
       },
       "D2": {
@@ -30640,15 +30640,15 @@
       "D4": {
         "name": "Experience",
         "weight": 27.6,
-        "score_percent": 30,
-        "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Basic verifiable professional experience."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Extensive professional experience verified."
       },
       "D5": {
         "name": "Expertise",
         "weight": 27.6,
-        "score_percent": 80,
-        "points": 22,
+        "score_percent": 85,
+        "points": 23,
         "justification": "[Heuristic Web Search Assessment] Elite domain authority with senior technical role and documented achievements."
       },
       "D6": {
@@ -30668,7 +30668,7 @@
       "D8": {
         "name": "Publications",
         "weight": 11.1,
-        "score_percent": 75,
+        "score_percent": 80,
         "points": 8,
         "justification": "[Heuristic Web Search Assessment] Extensive documented publication success across formats."
       },
@@ -31111,21 +31111,21 @@
     "success": true,
     "name": "Jordan Krause",
     "existing_aqs": 0.0,
-    "computed_aqs": 179,
-    "difference": 179.0,
+    "computed_aqs": 191,
+    "difference": 191.0,
     "dimensions": {
       "D9": {
         "name": "Reach",
         "weight": 54.9,
-        "score_percent": 45,
-        "points": 24,
-        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 15,000."
+        "score_percent": 60,
+        "points": 32,
+        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 25,000."
       },
       "D1": {
         "name": "Thought Leadership Status",
         "weight": 41.4,
-        "score_percent": 75,
-        "points": 31,
+        "score_percent": 80,
+        "points": 33,
         "justification": "[Heuristic Web Search Assessment] Globally recognized industry domain authority with extensive publications and impact."
       },
       "D2": {
@@ -31152,15 +31152,15 @@
       "D5": {
         "name": "Expertise",
         "weight": 27.6,
-        "score_percent": 80,
-        "points": 22,
+        "score_percent": 85,
+        "points": 23,
         "justification": "[Heuristic Web Search Assessment] Elite domain authority with senior technical role and documented achievements."
       },
       "D6": {
         "name": "Recognition",
         "weight": 21.9,
-        "score_percent": 80,
-        "points": 17,
+        "score_percent": 85,
+        "points": 18,
         "justification": "[Heuristic Web Search Assessment] Highly distinguished recognition (e.g. Kaggle Grandmaster, GitHub Star, Microsoft MVP)."
       },
       "D7": {
@@ -31173,7 +31173,7 @@
       "D8": {
         "name": "Publications",
         "weight": 11.1,
-        "score_percent": 75,
+        "score_percent": 80,
         "points": 8,
         "justification": "[Heuristic Web Search Assessment] Extensive documented publication success across formats."
       },
@@ -40908,8 +40908,8 @@
     "success": true,
     "name": "Mehul Gupta",
     "existing_aqs": 0.0,
-    "computed_aqs": 197,
-    "difference": 197.0,
+    "computed_aqs": 188,
+    "difference": 188.0,
     "dimensions": {
       "D9": {
         "name": "Reach",
@@ -40942,8 +40942,8 @@
       "D4": {
         "name": "Experience",
         "weight": 27.6,
-        "score_percent": 70,
-        "points": 19,
+        "score_percent": 55,
+        "points": 15,
         "justification": "[Heuristic Web Search Assessment] Extensive professional experience verified."
       },
       "D5": {
@@ -40956,8 +40956,8 @@
       "D6": {
         "name": "Recognition",
         "weight": 21.9,
-        "score_percent": 80,
-        "points": 17,
+        "score_percent": 55,
+        "points": 12,
         "justification": "[Heuristic Web Search Assessment] Highly distinguished recognition (e.g. Kaggle Grandmaster, GitHub Star, Microsoft MVP)."
       },
       "D7": {

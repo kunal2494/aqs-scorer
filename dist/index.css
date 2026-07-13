@@ -36,13 +36,17 @@
   margin: 0;
   padding: 0;
 }
+html, body {
+  height: 100vh;
+  overflow: hidden;
+}
 
 body {
   background-color: var(--bg-primary);
   color: var(--text-main);
   font-family: 'Inter', sans-serif;
-  min-height: 100vh;
-  overflow-x: hidden;
+  height: 100vh;
+  overflow: hidden;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -57,6 +61,7 @@ h1, h2, h3, h4, .range-badge {
   height: 100vh;
   padding: 20px;
   gap: 20px;
+  overflow: hidden;
 }
 
 /* Header */
@@ -854,4 +859,62 @@ h1, h2, h3, h4, .range-badge {
 .shift-match {
   color: var(--text-muted);
 }
+
+/* Responsive adjustments for layouts under 900px */
+@media (max-width: 900px) {
+  html, body {
+    height: auto;
+    overflow-y: auto;
+  }
+  
+  body {
+    height: auto;
+    overflow-y: auto;
+  }
+  
+  .app-container {
+    height: auto;
+    min-height: 100vh;
+    overflow: visible;
+    padding: 12px;
+    gap: 12px;
+  }
+  
+  .dashboard-content {
+    min-height: 0;
+    flex: none;
+    gap: 12px;
+  }
+  
+  .main-columns {
+    grid-template-columns: 1fr; /* Stack sidebar and scorecard vertically */
+    height: auto;
+    min-height: 0;
+    flex: none;
+    gap: 12px;
+  }
+  
+  .list-section, .scorecard-section {
+    height: auto;
+    min-height: 0;
+  }
+  
+  .author-list-container, .scorecard-card {
+    height: auto;
+    max-height: 600px; /* Cap vertical height to allow local scroll, or auto expand */
+    overflow-y: auto;
+  }
+  
+  /* On mobile screens, distribution grids wrap naturally, spacing out summaries */
+  .distribution-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .distribution-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 

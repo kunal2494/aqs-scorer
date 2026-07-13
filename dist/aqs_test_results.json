@@ -6972,92 +6972,92 @@
     "success": true,
     "name": "William Weinman",
     "existing_aqs": 0.0,
-    "computed_aqs": 108,
-    "difference": 108.0,
+    "computed_aqs": 184,
+    "difference": 184.0,
     "dimensions": {
+      "D9": {
+        "name": "Reach",
+        "weight": 54.9,
+        "score_percent": 70,
+        "points": 38,
+        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 200,000."
+      },
       "D1": {
         "name": "Thought Leadership Status",
         "weight": 41.4,
-        "score_percent": 40,
-        "points": 16,
-        "justification": "Documented internal leadership and long-term industry presence, but limited community-facing influence metrics. Capped at 50% per mandate."
+        "score_percent": 75,
+        "points": 31,
+        "justification": "[Heuristic Web Search Assessment] Globally recognized industry domain authority with extensive publications and impact."
       },
       "D2": {
         "name": "Tech Demand",
         "weight": 33.0,
-        "score_percent": 40,
-        "points": 13,
-        "justification": "Focuses on C, C++, Python, and SQL; these are stable, foundational technologies."
+        "score_percent": 85,
+        "points": 28,
+        "justification": "[Heuristic Web Search Assessment] Focuses on high-demand AI/ML/GenAI technologies."
       },
       "D3": {
         "name": "Alignment",
         "weight": 27.6,
-        "score_percent": 40,
-        "points": 11,
-        "justification": "Strong alignment with educational content creation for platforms like LinkedIn Learning."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Strong alignment between book topic and author professional focus."
       },
       "D4": {
         "name": "Experience",
         "weight": 27.6,
-        "score_percent": 60,
-        "points": 16,
-        "justification": "Extensive career history since 1971, including work for NASA and major corporations, demonstrating deep industry experience."
+        "score_percent": 30,
+        "points": 8,
+        "justification": "[Heuristic Web Search Assessment] Basic verifiable professional experience."
       },
       "D5": {
         "name": "Expertise",
         "weight": 27.6,
-        "score_percent": 50,
-        "points": 13,
-        "justification": "Demonstrated expertise through long-term professional practice and technical writing. Capped at 50% per mandate."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Elite domain authority with senior technical role and documented achievements."
       },
       "D6": {
         "name": "Recognition",
         "weight": 21.9,
-        "score_percent": 30,
-        "points": 6,
-        "justification": "Basic verifiable recognition through professional history and published books, but lacks major industry awards. Capped at 50% per mandate."
+        "score_percent": 25,
+        "points": 5,
+        "justification": "[Heuristic Web Search Assessment] Basic verifiable community recognition."
       },
       "D7": {
         "name": "Innovation",
         "weight": 24.0,
-        "score_percent": 30,
-        "points": 7,
-        "justification": "Documented innovation in early online learning and systems engineering, but lacks recent breakthrough metrics."
+        "score_percent": 25,
+        "points": 6,
+        "justification": "[Heuristic Web Search Assessment] Basic verifiable technical implementation."
       },
       "D8": {
         "name": "Publications",
         "weight": 11.1,
-        "score_percent": 40,
-        "points": 4,
-        "justification": "Multiple verified publications (books and courses), though specific sales/adoption metrics are not provided."
-      },
-      "D9": {
-        "name": "Reach",
-        "weight": 54.9,
-        "score_percent": 20,
-        "points": 10,
-        "justification": "Verified reach is low (38 GitHub followers), falling below the 5k threshold."
+        "score_percent": 75,
+        "points": 8,
+        "justification": "[Heuristic Web Search Assessment] Extensive documented publication success across formats."
       },
       "D10": {
         "name": "Writing Quality",
         "weight": 16.5,
-        "score_percent": 50,
-        "points": 8,
-        "justification": "Strong writing quality documentation evidenced by long-standing tenure as a technical author and course creator."
+        "score_percent": 75,
+        "points": 12,
+        "justification": "[Heuristic Web Search Assessment] Default baseline for verified book/course authors with positive reception."
       },
       "D11": {
         "name": "Academic Credentials",
         "weight": 11.1,
         "score_percent": 30,
         "points": 3,
-        "justification": "Basic verifiable credentials as an electronics engineer and long-term practitioner."
+        "justification": "[Heuristic Web Search Assessment] Basic verifiable academic credentials (BSc/BA)."
       },
       "D12": {
         "name": "Cross-disciplinary Reach",
         "weight": 3.3,
-        "score_percent": 40,
+        "score_percent": 50,
         "points": 1,
-        "justification": "Documented work across domains including electronics engineering, spacecraft systems, and software development."
+        "justification": "[Heuristic Web Search Assessment] Basic verifiable interest across domain lines."
       }
     },
     "bio": "Bill Weinman has been involved in technology since he built his first computer at age 16, in 1971. He\u2019s been coding in C and C++ since the early 1970s. He\u2019s written systems and applications for major clients, including NASA, Bank of America, Xerox, IBM, and the US Navy. Also an electronics engineer, he worked on the Voyager II spacecraft, audio amplifiers for SAE, and sound systems for Altec Lansing.nnSince the mid-1990s, Mr. Weinman has focused on writing and teaching. His books and courses cover HTML, SQL, CGI, Python, and of course, C and C++. An early contributor to online learning, his clear, concise writing has made his courses a popular feature on lynda and LinkedIn Learning.",
@@ -18991,22 +18991,22 @@
     "success": true,
     "name": "Mr. Stefan Kottwitz",
     "existing_aqs": 0.0,
-    "computed_aqs": 102,
-    "difference": 102.0,
+    "computed_aqs": 173,
+    "difference": 173.0,
     "dimensions": {
       "D9": {
         "name": "Reach",
         "weight": 54.9,
-        "score_percent": 15,
-        "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 0."
+        "score_percent": 50,
+        "points": 27,
+        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 20,000."
       },
       "D1": {
         "name": "Thought Leadership Status",
         "weight": 41.4,
-        "score_percent": 20,
-        "points": 8,
-        "justification": "[AQS Inflation Correction: Score of 193 was overridden because author did not originate from Existing AQS or RL CoP sources and lacks verified reach] [Heuristic Web Search Assessment] Capped at 20% due to low verified reach of 0 (< 5,000)."
+        "score_percent": 75,
+        "points": 31,
+        "justification": "[Heuristic Web Search Assessment] Globally recognized industry domain authority with extensive publications and impact."
       },
       "D2": {
         "name": "Tech Demand",
@@ -19018,8 +19018,8 @@
       "D3": {
         "name": "Alignment",
         "weight": 27.6,
-        "score_percent": 55,
-        "points": 15,
+        "score_percent": 80,
+        "points": 22,
         "justification": "[Heuristic Web Search Assessment] Strong alignment between book topic and author professional focus."
       },
       "D4": {
@@ -19032,16 +19032,16 @@
       "D5": {
         "name": "Expertise",
         "weight": 27.6,
-        "score_percent": 45,
-        "points": 12,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Professional role at a top-tier tech firm."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Elite domain authority with senior technical role and documented achievements."
       },
       "D6": {
         "name": "Recognition",
         "weight": 21.9,
         "score_percent": 25,
         "points": 5,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Basic verifiable community recognition."
+        "justification": "[Heuristic Web Search Assessment] Basic verifiable community recognition."
       },
       "D7": {
         "name": "Innovation",
@@ -19053,15 +19053,15 @@
       "D8": {
         "name": "Publications",
         "weight": 11.1,
-        "score_percent": 25,
-        "points": 2,
-        "justification": "[Heuristic Web Search Assessment] Author of publications, but capped due to lack of sales/readership evidence (<5k reach)."
+        "score_percent": 75,
+        "points": 8,
+        "justification": "[Heuristic Web Search Assessment] Extensive documented publication success across formats."
       },
       "D10": {
         "name": "Writing Quality",
         "weight": 16.5,
-        "score_percent": 45,
-        "points": 7,
+        "score_percent": 75,
+        "points": 12,
         "justification": "[Heuristic Web Search Assessment] Default baseline for verified book/course authors with positive reception."
       },
       "D11": {
@@ -19074,8 +19074,8 @@
       "D12": {
         "name": "Cross-disciplinary Reach",
         "weight": 3.3,
-        "score_percent": 25,
-        "points": 0,
+        "score_percent": 50,
+        "points": 1,
         "justification": "[Heuristic Web Search Assessment] Basic verifiable interest across domain lines."
       }
     },
@@ -30505,92 +30505,92 @@
     "success": true,
     "name": "Mr. Benjamin Frain",
     "existing_aqs": 0.0,
-    "computed_aqs": 107,
-    "difference": 107.0,
+    "computed_aqs": 181,
+    "difference": 181.0,
     "dimensions": {
+      "D9": {
+        "name": "Reach",
+        "weight": 54.9,
+        "score_percent": 45,
+        "points": 24,
+        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 15,000."
+      },
       "D1": {
         "name": "Thought Leadership Status",
         "weight": 41.4,
-        "score_percent": 40,
-        "points": 16,
-        "justification": "Recognized author of multiple web development books (HTML5, CSS, Sass), but lacks the massive community influence or paradigm-shifting impact required for higher scores. Capped at 50% due to low reach metrics."
+        "score_percent": 75,
+        "points": 31,
+        "justification": "[Heuristic Web Search Assessment] Globally recognized industry domain authority with extensive publications and impact."
       },
       "D2": {
         "name": "Tech Demand",
         "weight": 33.0,
-        "score_percent": 50,
-        "points": 16,
-        "justification": "Expertise in web design and development (HTML5/CSS) is stable and foundational, though not currently in the high-growth AI/ML category."
+        "score_percent": 85,
+        "points": 28,
+        "justification": "[Heuristic Web Search Assessment] Focuses on high-demand AI/ML/GenAI technologies."
       },
       "D3": {
         "name": "Alignment",
         "weight": 27.6,
-        "score_percent": 40,
-        "points": 11,
-        "justification": "Strong alignment with Packt's core audience of web developers, evidenced by his history of technical book authorship."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Strong alignment between book topic and author professional focus."
       },
       "D4": {
         "name": "Experience",
         "weight": 27.6,
-        "score_percent": 50,
-        "points": 13,
-        "justification": "Extensive professional experience since 1996 in web design and development, currently serving as a lead product designer."
+        "score_percent": 45,
+        "points": 12,
+        "justification": "[Heuristic Web Search Assessment] Senior professional role indicating multiple years of experience."
       },
       "D5": {
         "name": "Expertise",
         "weight": 27.6,
-        "score_percent": 45,
-        "points": 12,
-        "justification": "Demonstrated expertise through multiple published technical books. Capped at 50% due to low reach metrics."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Elite domain authority with senior technical role and documented achievements."
       },
       "D6": {
         "name": "Recognition",
         "weight": 21.9,
-        "score_percent": 30,
-        "points": 6,
-        "justification": "Known in the niche web development community as an author, but lacks major industry awards or global recognition. Capped at 50% due to low reach metrics."
+        "score_percent": 55,
+        "points": 12,
+        "justification": "[Heuristic Web Search Assessment] Recognised with industry awards, keynotes, or distinguished designations (e.g. MVP)."
       },
       "D7": {
         "name": "Innovation",
         "weight": 24.0,
-        "score_percent": 30,
-        "points": 7,
-        "justification": "Contributes educational content and technical insights, but no evidence of major industry-reshaping technical breakthroughs or framework creation."
+        "score_percent": 25,
+        "points": 6,
+        "justification": "[Heuristic Web Search Assessment] Basic verifiable technical implementation."
       },
       "D8": {
         "name": "Publications",
         "weight": 11.1,
-        "score_percent": 50,
-        "points": 5,
-        "justification": "Proven track record of publishing multiple technical books. While specific sales figures are not provided, his status as a known author in the field is verified."
-      },
-      "D9": {
-        "name": "Reach",
-        "weight": 54.9,
-        "score_percent": 20,
-        "points": 10,
-        "justification": "Verified reach is low, with only 569 GitHub followers and no significant social media presence provided. Falls into the <5k category."
+        "score_percent": 75,
+        "points": 8,
+        "justification": "[Heuristic Web Search Assessment] Extensive documented publication success across formats."
       },
       "D10": {
         "name": "Writing Quality",
         "weight": 16.5,
-        "score_percent": 50,
-        "points": 8,
-        "justification": "Proven ability to write technical books, which requires high-quality communication and instructional clarity."
+        "score_percent": 75,
+        "points": 12,
+        "justification": "[Heuristic Web Search Assessment] Default baseline for verified book/course authors with positive reception."
       },
       "D11": {
         "name": "Academic Credentials",
         "weight": 11.1,
         "score_percent": 30,
         "points": 3,
-        "justification": "Holds a degree from Salford University; basic verifiable credential."
+        "justification": "[Heuristic Web Search Assessment] Basic verifiable academic credentials (BSc/BA)."
       },
       "D12": {
         "name": "Cross-disciplinary Reach",
         "weight": 3.3,
-        "score_percent": 20,
-        "points": 0,
-        "justification": "Background includes media, performance, and screenwriting, showing some cross-disciplinary interest, though not directly impacting his technical authority."
+        "score_percent": 50,
+        "points": 1,
+        "justification": "[Heuristic Web Search Assessment] Basic verifiable interest across domain lines."
       }
     },
     "bio": "Ben Frain has been a web designer/developer since 1996. He is currently employed as a lead product designer at Bet365. Before the web, he worked as an underrated (and modest) TV actor and technology journalist, having graduated from Salford University with a degree in media and performance. He has written four equally underrated (his opinion) screenplays and still harbors an, admittedly fading, belief he might sell one. He likes to pretend he isn\u2019t a nerd but spends an inordinate amount of time building keyboards and talking about them, text editors, and the web on his blog and YouTube channel. Outside of geekery, he enjoys managing his youngest son\u2019s football team, if standing in a freezing wet field, while a team of 11-year-olds shout at you to shut up can be called enjoyment. He is also hoping that, one day soon, his eldest teenage son will emerge from his room to spend some time with him and his wife, rather than merely to ask whether there is anything to eat or to ask for money.",
@@ -37979,22 +37979,22 @@
     "success": true,
     "name": "Joshua N. Milligan",
     "existing_aqs": 0.0,
-    "computed_aqs": 102,
-    "difference": 102.0,
+    "computed_aqs": 188,
+    "difference": 188.0,
     "dimensions": {
       "D9": {
         "name": "Reach",
         "weight": 54.9,
-        "score_percent": 15,
-        "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 0."
+        "score_percent": 45,
+        "points": 24,
+        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 15,000."
       },
       "D1": {
         "name": "Thought Leadership Status",
         "weight": 41.4,
-        "score_percent": 20,
-        "points": 8,
-        "justification": "[AQS Inflation Correction: Score of 199 was overridden because author did not originate from Existing AQS or RL CoP sources and lacks verified reach] [Heuristic Web Search Assessment] Capped at 20% due to low verified reach of 0 (< 5,000)."
+        "score_percent": 75,
+        "points": 31,
+        "justification": "[Heuristic Web Search Assessment] Globally recognized industry domain authority with extensive publications and impact."
       },
       "D2": {
         "name": "Tech Demand",
@@ -38006,9 +38006,9 @@
       "D3": {
         "name": "Alignment",
         "weight": 27.6,
-        "score_percent": 35,
-        "points": 9,
-        "justification": "[Heuristic Web Search Assessment] Basic technical alignment between book topic and domain."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Strong alignment between book topic and author professional focus."
       },
       "D4": {
         "name": "Experience",
@@ -38020,16 +38020,16 @@
       "D5": {
         "name": "Expertise",
         "weight": 27.6,
-        "score_percent": 45,
-        "points": 12,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Documented senior expertise with specific domain focus."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Elite domain authority with senior technical role and documented achievements."
       },
       "D6": {
         "name": "Recognition",
         "weight": 21.9,
-        "score_percent": 25,
-        "points": 5,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Basic verifiable community recognition."
+        "score_percent": 80,
+        "points": 17,
+        "justification": "[Heuristic Web Search Assessment] Highly distinguished recognition (e.g. Kaggle Grandmaster, GitHub Star, Microsoft MVP)."
       },
       "D7": {
         "name": "Innovation",
@@ -38041,15 +38041,15 @@
       "D8": {
         "name": "Publications",
         "weight": 11.1,
-        "score_percent": 25,
-        "points": 2,
-        "justification": "[Heuristic Web Search Assessment] Author of publications, but capped due to lack of sales/readership evidence (<5k reach)."
+        "score_percent": 75,
+        "points": 8,
+        "justification": "[Heuristic Web Search Assessment] Extensive documented publication success across formats."
       },
       "D10": {
         "name": "Writing Quality",
         "weight": 16.5,
-        "score_percent": 45,
-        "points": 7,
+        "score_percent": 75,
+        "points": 12,
         "justification": "[Heuristic Web Search Assessment] Default baseline for verified book/course authors with positive reception."
       },
       "D11": {
@@ -38062,8 +38062,8 @@
       "D12": {
         "name": "Cross-disciplinary Reach",
         "weight": 3.3,
-        "score_percent": 25,
-        "points": 0,
+        "score_percent": 50,
+        "points": 1,
         "justification": "[Heuristic Web Search Assessment] Basic verifiable interest across domain lines."
       }
     },

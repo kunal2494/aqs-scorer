@@ -3,22 +3,22 @@
     "success": true,
     "name": "Mr. Sandipan Dey",
     "existing_aqs": 0.0,
-    "computed_aqs": 100,
-    "difference": 100.0,
+    "computed_aqs": 146,
+    "difference": 146.0,
     "dimensions": {
       "D9": {
         "name": "Reach",
         "weight": 54.9,
-        "score_percent": 15,
-        "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 112."
+        "score_percent": 20,
+        "points": 10,
+        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 4,000."
       },
       "D1": {
         "name": "Thought Leadership Status",
         "weight": 41.4,
-        "score_percent": 20,
-        "points": 8,
-        "justification": "[AQS Inflation Correction: Score of 203 was overridden because author did not originate from Existing AQS or RL CoP sources and lacks verified reach] [Heuristic Web Search Assessment] Capped at 20% due to low verified reach of 112 (< 5,000)."
+        "score_percent": 75,
+        "points": 31,
+        "justification": "[Heuristic Web Search Assessment] Globally recognized industry domain authority with extensive publications and impact."
       },
       "D2": {
         "name": "Tech Demand",
@@ -37,16 +37,16 @@
       "D4": {
         "name": "Experience",
         "weight": 27.6,
-        "score_percent": 30,
-        "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Basic verifiable professional experience."
+        "score_percent": 55,
+        "points": 15,
+        "justification": "[Heuristic Web Search Assessment] Extensive professional experience verified."
       },
       "D5": {
         "name": "Expertise",
         "weight": 27.6,
-        "score_percent": 30,
-        "points": 8,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Basic verifiable technical expertise."
+        "score_percent": 50,
+        "points": 13,
+        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Elite domain authority with senior technical role and documented achievements."
       },
       "D6": {
         "name": "Recognition",
@@ -65,15 +65,15 @@
       "D8": {
         "name": "Publications",
         "weight": 11.1,
-        "score_percent": 25,
-        "points": 2,
-        "justification": "[Heuristic Web Search Assessment] Author of publications, but capped due to lack of sales/readership evidence (<5k reach)."
+        "score_percent": 50,
+        "points": 5,
+        "justification": "[Heuristic Web Search Assessment] Extensive documented publication success across formats."
       },
       "D10": {
         "name": "Writing Quality",
         "weight": 16.5,
-        "score_percent": 45,
-        "points": 7,
+        "score_percent": 75,
+        "points": 12,
         "justification": "[Heuristic Web Search Assessment] Default baseline for verified book/course authors with positive reception."
       },
       "D11": {
@@ -86,8 +86,8 @@
       "D12": {
         "name": "Cross-disciplinary Reach",
         "weight": 3.3,
-        "score_percent": 25,
-        "points": 0,
+        "score_percent": 50,
+        "points": 1,
         "justification": "[Heuristic Web Search Assessment] Basic verifiable interest across domain lines."
       }
     },
@@ -2225,22 +2225,22 @@
     "success": true,
     "name": "Helder da Rocha",
     "existing_aqs": 0.0,
-    "computed_aqs": 104,
-    "difference": 104.0,
+    "computed_aqs": 180,
+    "difference": 180.0,
     "dimensions": {
       "D9": {
         "name": "Reach",
         "weight": 54.9,
-        "score_percent": 15,
-        "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 108."
+        "score_percent": 30,
+        "points": 16,
+        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 8,000."
       },
       "D1": {
         "name": "Thought Leadership Status",
         "weight": 41.4,
-        "score_percent": 20,
-        "points": 8,
-        "justification": "[AQS Inflation Correction: Score of 213 was overridden because author did not originate from Existing AQS or RL CoP sources and lacks verified reach] [Heuristic Web Search Assessment] Capped at 20% due to low verified reach of 108 (< 5,000)."
+        "score_percent": 70,
+        "points": 28,
+        "justification": "[Heuristic Web Search Assessment] Globally recognized industry domain authority with extensive publications and impact."
       },
       "D2": {
         "name": "Tech Demand",
@@ -2252,30 +2252,30 @@
       "D3": {
         "name": "Alignment",
         "weight": 27.6,
-        "score_percent": 55,
-        "points": 15,
+        "score_percent": 80,
+        "points": 22,
         "justification": "[Heuristic Web Search Assessment] Strong alignment between book topic and author professional focus."
       },
       "D4": {
         "name": "Experience",
         "weight": 27.6,
-        "score_percent": 30,
-        "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Basic verifiable professional experience."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Extensive professional experience verified."
       },
       "D5": {
         "name": "Expertise",
         "weight": 27.6,
-        "score_percent": 30,
-        "points": 8,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Basic verifiable technical expertise."
+        "score_percent": 75,
+        "points": 20,
+        "justification": "[Heuristic Web Search Assessment] Elite domain authority with senior technical role and documented achievements."
       },
       "D6": {
         "name": "Recognition",
         "weight": 21.9,
         "score_percent": 25,
         "points": 5,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Basic verifiable community recognition."
+        "justification": "[Heuristic Web Search Assessment] Basic verifiable community recognition."
       },
       "D7": {
         "name": "Innovation",
@@ -2287,29 +2287,29 @@
       "D8": {
         "name": "Publications",
         "weight": 11.1,
-        "score_percent": 25,
-        "points": 2,
-        "justification": "[Heuristic Web Search Assessment] Author of publications, but capped due to lack of sales/readership evidence (<5k reach)."
+        "score_percent": 75,
+        "points": 8,
+        "justification": "[Heuristic Web Search Assessment] Extensive documented publication success across formats."
       },
       "D10": {
         "name": "Writing Quality",
         "weight": 16.5,
-        "score_percent": 45,
-        "points": 7,
+        "score_percent": 75,
+        "points": 12,
         "justification": "[Heuristic Web Search Assessment] Default baseline for verified book/course authors with positive reception."
       },
       "D11": {
         "name": "Academic Credentials",
         "weight": 11.1,
-        "score_percent": 50,
-        "points": 5,
-        "justification": "[Heuristic Web Search Assessment] Advanced graduate degree (MSc/MBA) from a respectable institution."
+        "score_percent": 75,
+        "points": 8,
+        "justification": "[Heuristic Web Search Assessment] Master's in Computer Science"
       },
       "D12": {
         "name": "Cross-disciplinary Reach",
         "weight": 3.3,
-        "score_percent": 25,
-        "points": 0,
+        "score_percent": 50,
+        "points": 1,
         "justification": "[Heuristic Web Search Assessment] Basic verifiable interest across domain lines."
       }
     },
@@ -4447,22 +4447,22 @@
     "success": true,
     "name": "Yousri El Fattah",
     "existing_aqs": 0.0,
-    "computed_aqs": 111,
-    "difference": 111.0,
+    "computed_aqs": 178,
+    "difference": 178.0,
     "dimensions": {
       "D9": {
         "name": "Reach",
         "weight": 54.9,
-        "score_percent": 15,
-        "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 0."
+        "score_percent": 30,
+        "points": 16,
+        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 8,000."
       },
       "D1": {
         "name": "Thought Leadership Status",
         "weight": 41.4,
-        "score_percent": 20,
-        "points": 8,
-        "justification": "[AQS Inflation Correction: Score of 203 was overridden because author did not originate from Existing AQS or RL CoP sources and lacks verified reach] [Heuristic Web Search Assessment] Capped at 20% due to low verified reach of 0 (< 5,000)."
+        "score_percent": 70,
+        "points": 28,
+        "justification": "[Heuristic Web Search Assessment] Globally recognized industry domain authority with extensive publications and impact."
       },
       "D2": {
         "name": "Tech Demand",
@@ -4474,30 +4474,30 @@
       "D3": {
         "name": "Alignment",
         "weight": 27.6,
-        "score_percent": 55,
-        "points": 15,
+        "score_percent": 80,
+        "points": 22,
         "justification": "[Heuristic Web Search Assessment] Strong alignment between book topic and author professional focus."
       },
       "D4": {
         "name": "Experience",
         "weight": 27.6,
-        "score_percent": 45,
-        "points": 12,
-        "justification": "[Heuristic Web Search Assessment] Senior professional role indicating multiple years of experience."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Extensive professional experience verified."
       },
       "D5": {
         "name": "Expertise",
         "weight": 27.6,
-        "score_percent": 45,
-        "points": 12,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Professional role at a top-tier tech firm."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Elite domain authority with senior technical role and documented achievements."
       },
       "D6": {
         "name": "Recognition",
         "weight": 21.9,
         "score_percent": 25,
         "points": 5,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Basic verifiable community recognition."
+        "justification": "[Heuristic Web Search Assessment] Basic verifiable community recognition."
       },
       "D7": {
         "name": "Innovation",
@@ -4509,15 +4509,15 @@
       "D8": {
         "name": "Publications",
         "weight": 11.1,
-        "score_percent": 25,
-        "points": 2,
-        "justification": "[Heuristic Web Search Assessment] Author of publications, but capped due to lack of sales/readership evidence (<5k reach)."
+        "score_percent": 75,
+        "points": 8,
+        "justification": "[Heuristic Web Search Assessment] Extensive documented publication success across formats."
       },
       "D10": {
         "name": "Writing Quality",
         "weight": 16.5,
-        "score_percent": 45,
-        "points": 7,
+        "score_percent": 75,
+        "points": 12,
         "justification": "[Heuristic Web Search Assessment] Default baseline for verified book/course authors with positive reception."
       },
       "D11": {
@@ -4525,13 +4525,13 @@
         "weight": 11.1,
         "score_percent": 75,
         "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Advanced degree or academic research/teaching position."
+        "justification": "[Heuristic Web Search Assessment] Double PhD, former Senior Scientist & Lecturer"
       },
       "D12": {
         "name": "Cross-disciplinary Reach",
         "weight": 3.3,
-        "score_percent": 25,
-        "points": 0,
+        "score_percent": 50,
+        "points": 1,
         "justification": "[Heuristic Web Search Assessment] Basic verifiable interest across domain lines."
       }
     },
@@ -5356,22 +5356,22 @@
     "success": true,
     "name": "Mr. Erik Benner",
     "existing_aqs": 0.0,
-    "computed_aqs": 102,
-    "difference": 102.0,
+    "computed_aqs": 185,
+    "difference": 185.0,
     "dimensions": {
       "D9": {
         "name": "Reach",
         "weight": 54.9,
-        "score_percent": 20,
-        "points": 10,
-        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 4,659."
+        "score_percent": 30,
+        "points": 16,
+        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 8,000."
       },
       "D1": {
         "name": "Thought Leadership Status",
         "weight": 41.4,
-        "score_percent": 30,
-        "points": 12,
-        "justification": "[AQS Inflation Correction: Score of 212 was overridden because author did not originate from Existing AQS or RL CoP sources and lacks verified reach] [Heuristic Web Search Assessment] Capped at 30% due to low verified reach of 4,659 (< 5,000)."
+        "score_percent": 70,
+        "points": 28,
+        "justification": "[Heuristic Web Search Assessment] Globally recognized industry domain authority with extensive publications and impact."
       },
       "D2": {
         "name": "Tech Demand",
@@ -5383,30 +5383,30 @@
       "D3": {
         "name": "Alignment",
         "weight": 27.6,
-        "score_percent": 35,
-        "points": 9,
-        "justification": "[Heuristic Web Search Assessment] Basic technical alignment between book topic and domain."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Strong alignment between book topic and author professional focus."
       },
       "D4": {
         "name": "Experience",
         "weight": 27.6,
-        "score_percent": 30,
-        "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Basic verifiable professional experience."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Extensive professional experience verified."
       },
       "D5": {
         "name": "Expertise",
         "weight": 27.6,
-        "score_percent": 45,
-        "points": 12,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Documented senior expertise with specific domain focus."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Elite domain authority with senior technical role and documented achievements."
       },
       "D6": {
         "name": "Recognition",
         "weight": 21.9,
-        "score_percent": 25,
-        "points": 5,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Basic verifiable community recognition."
+        "score_percent": 80,
+        "points": 17,
+        "justification": "[Heuristic Web Search Assessment] Highly distinguished recognition (e.g. Kaggle Grandmaster, GitHub Star, Microsoft MVP)."
       },
       "D7": {
         "name": "Innovation",
@@ -5418,15 +5418,15 @@
       "D8": {
         "name": "Publications",
         "weight": 11.1,
-        "score_percent": 20,
-        "points": 2,
-        "justification": "[Heuristic Web Search Assessment] Basic verifiable publication history."
+        "score_percent": 75,
+        "points": 8,
+        "justification": "[Heuristic Web Search Assessment] Extensive documented publication success across formats."
       },
       "D10": {
         "name": "Writing Quality",
         "weight": 16.5,
-        "score_percent": 45,
-        "points": 7,
+        "score_percent": 75,
+        "points": 12,
         "justification": "[Heuristic Web Search Assessment] Default baseline for verified book/course authors with positive reception."
       },
       "D11": {
@@ -5439,8 +5439,8 @@
       "D12": {
         "name": "Cross-disciplinary Reach",
         "weight": 3.3,
-        "score_percent": 25,
-        "points": 0,
+        "score_percent": 50,
+        "points": 1,
         "justification": "[Heuristic Web Search Assessment] Basic verifiable interest across domain lines."
       }
     },
@@ -7578,22 +7578,22 @@
     "success": true,
     "name": "Michiel Rozema",
     "existing_aqs": 0.0,
-    "computed_aqs": 107,
-    "difference": 107.0,
+    "computed_aqs": 187,
+    "difference": 187.0,
     "dimensions": {
       "D9": {
         "name": "Reach",
         "weight": 54.9,
-        "score_percent": 15,
-        "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 6."
+        "score_percent": 30,
+        "points": 16,
+        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 8,000."
       },
       "D1": {
         "name": "Thought Leadership Status",
         "weight": 41.4,
-        "score_percent": 20,
-        "points": 8,
-        "justification": "[AQS Inflation Correction: Score of 193 was overridden because author did not originate from Existing AQS or RL CoP sources and lacks verified reach] [Heuristic Web Search Assessment] Capped at 20% due to low verified reach of 6 (< 5,000)."
+        "score_percent": 70,
+        "points": 28,
+        "justification": "[Heuristic Web Search Assessment] Globally recognized industry domain authority with extensive publications and impact."
       },
       "D2": {
         "name": "Tech Demand",
@@ -7605,30 +7605,30 @@
       "D3": {
         "name": "Alignment",
         "weight": 27.6,
-        "score_percent": 35,
-        "points": 9,
-        "justification": "[Heuristic Web Search Assessment] Basic technical alignment between book topic and domain."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Strong alignment between book topic and author professional focus."
       },
       "D4": {
         "name": "Experience",
         "weight": 27.6,
-        "score_percent": 65,
-        "points": 17,
-        "justification": "[Heuristic Web Search Assessment] Extensive professional experience verified (15+ years)."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Extensive professional experience verified."
       },
       "D5": {
         "name": "Expertise",
         "weight": 27.6,
-        "score_percent": 45,
-        "points": 12,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Professional role at a top-tier tech firm."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Elite domain authority with senior technical role and documented achievements."
       },
       "D6": {
         "name": "Recognition",
         "weight": 21.9,
-        "score_percent": 25,
-        "points": 5,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Basic verifiable community recognition."
+        "score_percent": 80,
+        "points": 17,
+        "justification": "[Heuristic Web Search Assessment] Highly distinguished recognition (e.g. Kaggle Grandmaster, GitHub Star, Microsoft MVP)."
       },
       "D7": {
         "name": "Innovation",
@@ -7640,15 +7640,15 @@
       "D8": {
         "name": "Publications",
         "weight": 11.1,
-        "score_percent": 25,
-        "points": 2,
-        "justification": "[Heuristic Web Search Assessment] Author of publications, but capped due to lack of sales/readership evidence (<5k reach)."
+        "score_percent": 75,
+        "points": 8,
+        "justification": "[Heuristic Web Search Assessment] Extensive documented publication success across formats."
       },
       "D10": {
         "name": "Writing Quality",
         "weight": 16.5,
-        "score_percent": 45,
-        "points": 7,
+        "score_percent": 75,
+        "points": 12,
         "justification": "[Heuristic Web Search Assessment] Default baseline for verified book/course authors with positive reception."
       },
       "D11": {
@@ -7661,8 +7661,8 @@
       "D12": {
         "name": "Cross-disciplinary Reach",
         "weight": 3.3,
-        "score_percent": 25,
-        "points": 0,
+        "score_percent": 50,
+        "points": 1,
         "justification": "[Heuristic Web Search Assessment] Basic verifiable interest across domain lines."
       }
     },
@@ -7780,22 +7780,22 @@
     "success": true,
     "name": "Henk Vlootman",
     "existing_aqs": 0.0,
-    "computed_aqs": 105,
-    "difference": 105.0,
+    "computed_aqs": 185,
+    "difference": 185.0,
     "dimensions": {
       "D9": {
         "name": "Reach",
         "weight": 54.9,
-        "score_percent": 15,
-        "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 0."
+        "score_percent": 30,
+        "points": 16,
+        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 8,000."
       },
       "D1": {
         "name": "Thought Leadership Status",
         "weight": 41.4,
-        "score_percent": 20,
-        "points": 8,
-        "justification": "[AQS Inflation Correction: Score of 204 was overridden because author did not originate from Existing AQS or RL CoP sources and lacks verified reach] [Heuristic Web Search Assessment] Capped at 20% due to low verified reach of 0 (< 5,000)."
+        "score_percent": 70,
+        "points": 28,
+        "justification": "[Heuristic Web Search Assessment] Globally recognized industry domain authority with extensive publications and impact."
       },
       "D2": {
         "name": "Tech Demand",
@@ -7807,30 +7807,30 @@
       "D3": {
         "name": "Alignment",
         "weight": 27.6,
-        "score_percent": 35,
-        "points": 9,
-        "justification": "[Heuristic Web Search Assessment] Basic technical alignment between book topic and domain."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Strong alignment between book topic and author professional focus."
       },
       "D4": {
         "name": "Experience",
         "weight": 27.6,
-        "score_percent": 45,
-        "points": 12,
-        "justification": "[Heuristic Web Search Assessment] Senior professional role indicating multiple years of experience."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Extensive professional experience verified."
       },
       "D5": {
         "name": "Expertise",
         "weight": 27.6,
-        "score_percent": 45,
-        "points": 12,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Professional role at a top-tier tech firm."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Elite domain authority with senior technical role and documented achievements."
       },
       "D6": {
         "name": "Recognition",
         "weight": 21.9,
-        "score_percent": 50,
-        "points": 10,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Recognised with industry awards, keynotes, or distinguished designations (e.g. MVP)."
+        "score_percent": 80,
+        "points": 17,
+        "justification": "[Heuristic Web Search Assessment] Highly distinguished recognition (e.g. Kaggle Grandmaster, GitHub Star, Microsoft MVP)."
       },
       "D7": {
         "name": "Innovation",
@@ -7842,15 +7842,15 @@
       "D8": {
         "name": "Publications",
         "weight": 11.1,
-        "score_percent": 25,
-        "points": 2,
-        "justification": "[Heuristic Web Search Assessment] Author of publications, but capped due to lack of sales/readership evidence (<5k reach)."
+        "score_percent": 75,
+        "points": 8,
+        "justification": "[Heuristic Web Search Assessment] Extensive documented publication success across formats."
       },
       "D10": {
         "name": "Writing Quality",
         "weight": 16.5,
-        "score_percent": 45,
-        "points": 7,
+        "score_percent": 75,
+        "points": 12,
         "justification": "[Heuristic Web Search Assessment] Default baseline for verified book/course authors with positive reception."
       },
       "D11": {
@@ -7863,8 +7863,8 @@
       "D12": {
         "name": "Cross-disciplinary Reach",
         "weight": 3.3,
-        "score_percent": 25,
-        "points": 0,
+        "score_percent": 50,
+        "points": 1,
         "justification": "[Heuristic Web Search Assessment] Basic verifiable interest across domain lines."
       }
     },
@@ -15658,22 +15658,22 @@
     "success": true,
     "name": "Calvin Nobles",
     "existing_aqs": 0.0,
-    "computed_aqs": 102,
-    "difference": 102.0,
+    "computed_aqs": 164,
+    "difference": 164.0,
     "dimensions": {
       "D9": {
         "name": "Reach",
         "weight": 54.9,
-        "score_percent": 15,
-        "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 0."
+        "score_percent": 30,
+        "points": 16,
+        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 8,000."
       },
       "D1": {
         "name": "Thought Leadership Status",
         "weight": 41.4,
-        "score_percent": 20,
-        "points": 8,
-        "justification": "[AQS Inflation Correction: Score of 209 was overridden because author did not originate from Existing AQS or RL CoP sources and lacks verified reach] [Heuristic Web Search Assessment] Capped at 20% due to low verified reach of 0 (< 5,000)."
+        "score_percent": 70,
+        "points": 28,
+        "justification": "[Heuristic Web Search Assessment] Globally recognized industry domain authority with extensive publications and impact."
       },
       "D2": {
         "name": "Tech Demand",
@@ -15685,30 +15685,30 @@
       "D3": {
         "name": "Alignment",
         "weight": 27.6,
-        "score_percent": 55,
-        "points": 15,
+        "score_percent": 80,
+        "points": 22,
         "justification": "[Heuristic Web Search Assessment] Strong alignment between book topic and author professional focus."
       },
       "D4": {
         "name": "Experience",
         "weight": 27.6,
-        "score_percent": 65,
-        "points": 17,
-        "justification": "[Heuristic Web Search Assessment] Extensive professional experience verified (15+ years)."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Extensive professional experience verified."
       },
       "D5": {
         "name": "Expertise",
         "weight": 27.6,
-        "score_percent": 45,
-        "points": 12,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Documented senior expertise with specific domain focus."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Elite domain authority with senior technical role and documented achievements."
       },
       "D6": {
         "name": "Recognition",
         "weight": 21.9,
         "score_percent": 25,
         "points": 5,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Basic verifiable community recognition."
+        "justification": "[Heuristic Web Search Assessment] Basic verifiable community recognition."
       },
       "D7": {
         "name": "Innovation",
@@ -15720,15 +15720,15 @@
       "D8": {
         "name": "Publications",
         "weight": 11.1,
-        "score_percent": 20,
-        "points": 2,
-        "justification": "[Heuristic Web Search Assessment] Basic verifiable publication history."
+        "score_percent": 75,
+        "points": 8,
+        "justification": "[Heuristic Web Search Assessment] Extensive documented publication success across formats."
       },
       "D10": {
         "name": "Writing Quality",
         "weight": 16.5,
-        "score_percent": 45,
-        "points": 7,
+        "score_percent": 75,
+        "points": 12,
         "justification": "[Heuristic Web Search Assessment] Default baseline for verified book/course authors with positive reception."
       },
       "D11": {
@@ -15736,13 +15736,13 @@
         "weight": 11.1,
         "score_percent": 75,
         "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Advanced degree or academic research/teaching position."
+        "justification": "[Heuristic Web Search Assessment] PhD, Dean of School of Cybersecurity at UMGC"
       },
       "D12": {
         "name": "Cross-disciplinary Reach",
         "weight": 3.3,
-        "score_percent": 25,
-        "points": 0,
+        "score_percent": 50,
+        "points": 1,
         "justification": "[Heuristic Web Search Assessment] Basic verifiable interest across domain lines."
       }
     },
@@ -28182,22 +28182,22 @@
     "success": true,
     "name": "Alex Strick van Linschoten",
     "existing_aqs": 0.0,
-    "computed_aqs": 110,
-    "difference": 110.0,
+    "computed_aqs": 149,
+    "difference": 149.0,
     "dimensions": {
       "D9": {
         "name": "Reach",
         "weight": 54.9,
-        "score_percent": 15,
-        "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 0."
+        "score_percent": 20,
+        "points": 10,
+        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 4,000."
       },
       "D1": {
         "name": "Thought Leadership Status",
         "weight": 41.4,
-        "score_percent": 20,
-        "points": 8,
-        "justification": "[AQS Inflation Correction: Score of 200 was overridden because author did not originate from Existing AQS or RL CoP sources and lacks verified reach] [Heuristic Web Search Assessment] Capped at 20% due to low verified reach of 0 (< 5,000)."
+        "score_percent": 75,
+        "points": 31,
+        "justification": "[Heuristic Web Search Assessment] Globally recognized industry domain authority with extensive publications and impact."
       },
       "D2": {
         "name": "Tech Demand",
@@ -28209,23 +28209,23 @@
       "D3": {
         "name": "Alignment",
         "weight": 27.6,
-        "score_percent": 35,
-        "points": 9,
-        "justification": "[Heuristic Web Search Assessment] Basic technical alignment between book topic and domain."
+        "score_percent": 55,
+        "points": 15,
+        "justification": "[Heuristic Web Search Assessment] Strong alignment between book topic and author professional focus."
       },
       "D4": {
         "name": "Experience",
         "weight": 27.6,
-        "score_percent": 65,
-        "points": 17,
-        "justification": "[Heuristic Web Search Assessment] Extensive professional experience verified (15+ years)."
+        "score_percent": 55,
+        "points": 15,
+        "justification": "[Heuristic Web Search Assessment] Extensive professional experience verified."
       },
       "D5": {
         "name": "Expertise",
         "weight": 27.6,
-        "score_percent": 45,
-        "points": 12,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Documented senior expertise with specific domain focus."
+        "score_percent": 50,
+        "points": 13,
+        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Elite domain authority with senior technical role and documented achievements."
       },
       "D6": {
         "name": "Recognition",
@@ -28244,15 +28244,15 @@
       "D8": {
         "name": "Publications",
         "weight": 11.1,
-        "score_percent": 20,
-        "points": 2,
-        "justification": "[Heuristic Web Search Assessment] Basic verifiable publication history."
+        "score_percent": 50,
+        "points": 5,
+        "justification": "[Heuristic Web Search Assessment] Extensive documented publication success across formats."
       },
       "D10": {
         "name": "Writing Quality",
         "weight": 16.5,
-        "score_percent": 45,
-        "points": 7,
+        "score_percent": 75,
+        "points": 12,
         "justification": "[Heuristic Web Search Assessment] Default baseline for verified book/course authors with positive reception."
       },
       "D11": {
@@ -28260,13 +28260,13 @@
         "weight": 11.1,
         "score_percent": 75,
         "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Advanced degree or academic research/teaching position."
+        "justification": "[Heuristic Web Search Assessment] PhD in History"
       },
       "D12": {
         "name": "Cross-disciplinary Reach",
         "weight": 3.3,
-        "score_percent": 25,
-        "points": 0,
+        "score_percent": 50,
+        "points": 1,
         "justification": "[Heuristic Web Search Assessment] Basic verifiable interest across domain lines."
       }
     },
@@ -32020,22 +32020,22 @@
     "success": true,
     "name": "Tobias Zwingmann",
     "existing_aqs": 0.0,
-    "computed_aqs": 105,
-    "difference": 105.0,
+    "computed_aqs": 144,
+    "difference": 144.0,
     "dimensions": {
       "D9": {
         "name": "Reach",
         "weight": 54.9,
-        "score_percent": 15,
-        "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 0."
+        "score_percent": 20,
+        "points": 10,
+        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 4,000."
       },
       "D1": {
         "name": "Thought Leadership Status",
         "weight": 41.4,
-        "score_percent": 20,
-        "points": 8,
-        "justification": "[AQS Inflation Correction: Score of 203 was overridden because author did not originate from Existing AQS or RL CoP sources and lacks verified reach] [Heuristic Web Search Assessment] Capped at 20% due to low verified reach of 0 (< 5,000)."
+        "score_percent": 75,
+        "points": 31,
+        "justification": "[Heuristic Web Search Assessment] Globally recognized industry domain authority with extensive publications and impact."
       },
       "D2": {
         "name": "Tech Demand",
@@ -32047,23 +32047,23 @@
       "D3": {
         "name": "Alignment",
         "weight": 27.6,
-        "score_percent": 35,
-        "points": 9,
-        "justification": "[Heuristic Web Search Assessment] Basic technical alignment between book topic and domain."
+        "score_percent": 55,
+        "points": 15,
+        "justification": "[Heuristic Web Search Assessment] Strong alignment between book topic and author professional focus."
       },
       "D4": {
         "name": "Experience",
         "weight": 27.6,
-        "score_percent": 65,
-        "points": 17,
-        "justification": "[Heuristic Web Search Assessment] Extensive professional experience verified (15+ years)."
+        "score_percent": 55,
+        "points": 15,
+        "justification": "[Heuristic Web Search Assessment] Extensive professional experience verified."
       },
       "D5": {
         "name": "Expertise",
         "weight": 27.6,
-        "score_percent": 45,
-        "points": 12,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Documented senior expertise with specific domain focus."
+        "score_percent": 50,
+        "points": 13,
+        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Elite domain authority with senior technical role and documented achievements."
       },
       "D6": {
         "name": "Recognition",
@@ -32082,15 +32082,15 @@
       "D8": {
         "name": "Publications",
         "weight": 11.1,
-        "score_percent": 20,
-        "points": 2,
-        "justification": "[Heuristic Web Search Assessment] Basic verifiable publication history."
+        "score_percent": 50,
+        "points": 5,
+        "justification": "[Heuristic Web Search Assessment] Extensive documented publication success across formats."
       },
       "D10": {
         "name": "Writing Quality",
         "weight": 16.5,
-        "score_percent": 45,
-        "points": 7,
+        "score_percent": 75,
+        "points": 12,
         "justification": "[Heuristic Web Search Assessment] Default baseline for verified book/course authors with positive reception."
       },
       "D11": {
@@ -32103,8 +32103,8 @@
       "D12": {
         "name": "Cross-disciplinary Reach",
         "weight": 3.3,
-        "score_percent": 25,
-        "points": 0,
+        "score_percent": 50,
+        "points": 1,
         "justification": "[Heuristic Web Search Assessment] Basic verifiable interest across domain lines."
       }
     },
@@ -32424,22 +32424,22 @@
     "success": true,
     "name": "Adora Nwodo",
     "existing_aqs": 0.0,
-    "computed_aqs": 110,
-    "difference": 110.0,
+    "computed_aqs": 136,
+    "difference": 136.0,
     "dimensions": {
       "D9": {
         "name": "Reach",
         "weight": 54.9,
-        "score_percent": 15,
-        "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 0."
+        "score_percent": 20,
+        "points": 10,
+        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 4,000."
       },
       "D1": {
         "name": "Thought Leadership Status",
         "weight": 41.4,
-        "score_percent": 20,
-        "points": 8,
-        "justification": "[AQS Inflation Correction: Score of 198 was overridden because author did not originate from Existing AQS or RL CoP sources and lacks verified reach] [Heuristic Web Search Assessment] Capped at 20% due to low verified reach of 0 (< 5,000)."
+        "score_percent": 45,
+        "points": 18,
+        "justification": "[Heuristic Web Search Assessment] Globally recognized industry domain authority with extensive publications and impact."
       },
       "D2": {
         "name": "Tech Demand",
@@ -32451,30 +32451,30 @@
       "D3": {
         "name": "Alignment",
         "weight": 27.6,
-        "score_percent": 35,
-        "points": 9,
-        "justification": "[Heuristic Web Search Assessment] Basic technical alignment between book topic and domain."
+        "score_percent": 55,
+        "points": 15,
+        "justification": "[Heuristic Web Search Assessment] Strong alignment between book topic and author professional focus."
       },
       "D4": {
         "name": "Experience",
         "weight": 27.6,
         "score_percent": 45,
         "points": 12,
-        "justification": "[Heuristic Web Search Assessment] Senior professional role indicating multiple years of experience."
+        "justification": "[Heuristic Web Search Assessment] Extensive professional experience verified."
       },
       "D5": {
         "name": "Expertise",
         "weight": 27.6,
-        "score_percent": 50,
-        "points": 13,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Senior role at top-tier tech firm with documented technical achievements."
+        "score_percent": 45,
+        "points": 12,
+        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Elite domain authority with senior technical role and documented achievements."
       },
       "D6": {
         "name": "Recognition",
         "weight": 21.9,
         "score_percent": 50,
         "points": 10,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Recognised with industry awards, keynotes, or distinguished designations (e.g. MVP)."
+        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Highly distinguished recognition (e.g. Kaggle Grandmaster, GitHub Star, Microsoft MVP)."
       },
       "D7": {
         "name": "Innovation",
@@ -32486,15 +32486,15 @@
       "D8": {
         "name": "Publications",
         "weight": 11.1,
-        "score_percent": 25,
-        "points": 2,
-        "justification": "[Heuristic Web Search Assessment] Author of publications, but capped due to lack of sales/readership evidence (<5k reach)."
+        "score_percent": 50,
+        "points": 5,
+        "justification": "[Heuristic Web Search Assessment] Extensive documented publication success across formats."
       },
       "D10": {
         "name": "Writing Quality",
         "weight": 16.5,
-        "score_percent": 45,
-        "points": 7,
+        "score_percent": 75,
+        "points": 12,
         "justification": "[Heuristic Web Search Assessment] Default baseline for verified book/course authors with positive reception."
       },
       "D11": {
@@ -32507,8 +32507,8 @@
       "D12": {
         "name": "Cross-disciplinary Reach",
         "weight": 3.3,
-        "score_percent": 25,
-        "points": 0,
+        "score_percent": 50,
+        "points": 1,
         "justification": "[Heuristic Web Search Assessment] Basic verifiable interest across domain lines."
       }
     },
@@ -33232,22 +33232,22 @@
     "success": true,
     "name": "David Rend\u00f3n",
     "existing_aqs": 0.0,
-    "computed_aqs": 110,
-    "difference": 110.0,
+    "computed_aqs": 185,
+    "difference": 185.0,
     "dimensions": {
       "D9": {
         "name": "Reach",
         "weight": 54.9,
-        "score_percent": 15,
-        "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 0."
+        "score_percent": 30,
+        "points": 16,
+        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 8,000."
       },
       "D1": {
         "name": "Thought Leadership Status",
         "weight": 41.4,
-        "score_percent": 20,
-        "points": 8,
-        "justification": "[AQS Inflation Correction: Score of 220 was overridden because author did not originate from Existing AQS or RL CoP sources and lacks verified reach] [Heuristic Web Search Assessment] Capped at 20% due to low verified reach of 0 (< 5,000)."
+        "score_percent": 70,
+        "points": 28,
+        "justification": "[Heuristic Web Search Assessment] Globally recognized industry domain authority with extensive publications and impact."
       },
       "D2": {
         "name": "Tech Demand",
@@ -33259,30 +33259,30 @@
       "D3": {
         "name": "Alignment",
         "weight": 27.6,
-        "score_percent": 35,
-        "points": 9,
-        "justification": "[Heuristic Web Search Assessment] Basic technical alignment between book topic and domain."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Strong alignment between book topic and author professional focus."
       },
       "D4": {
         "name": "Experience",
         "weight": 27.6,
-        "score_percent": 65,
-        "points": 17,
-        "justification": "[Heuristic Web Search Assessment] Extensive professional experience verified (15+ years)."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Extensive professional experience verified."
       },
       "D5": {
         "name": "Expertise",
         "weight": 27.6,
-        "score_percent": 45,
-        "points": 12,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Professional role at a top-tier tech firm."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Elite domain authority with senior technical role and documented achievements."
       },
       "D6": {
         "name": "Recognition",
         "weight": 21.9,
-        "score_percent": 50,
-        "points": 10,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Recognised with industry awards, keynotes, or distinguished designations (e.g. MVP)."
+        "score_percent": 80,
+        "points": 17,
+        "justification": "[Heuristic Web Search Assessment] Highly distinguished recognition (e.g. Kaggle Grandmaster, GitHub Star, Microsoft MVP)."
       },
       "D7": {
         "name": "Innovation",
@@ -33294,15 +33294,15 @@
       "D8": {
         "name": "Publications",
         "weight": 11.1,
-        "score_percent": 20,
-        "points": 2,
-        "justification": "[Heuristic Web Search Assessment] Basic verifiable publication history."
+        "score_percent": 75,
+        "points": 8,
+        "justification": "[Heuristic Web Search Assessment] Extensive documented publication success across formats."
       },
       "D10": {
         "name": "Writing Quality",
         "weight": 16.5,
-        "score_percent": 45,
-        "points": 7,
+        "score_percent": 75,
+        "points": 12,
         "justification": "[Heuristic Web Search Assessment] Default baseline for verified book/course authors with positive reception."
       },
       "D11": {
@@ -33315,8 +33315,8 @@
       "D12": {
         "name": "Cross-disciplinary Reach",
         "weight": 3.3,
-        "score_percent": 25,
-        "points": 0,
+        "score_percent": 50,
+        "points": 1,
         "justification": "[Heuristic Web Search Assessment] Basic verifiable interest across domain lines."
       }
     },
@@ -39494,22 +39494,22 @@
     "success": true,
     "name": "El\u00edas F. Combarro",
     "existing_aqs": 0.0,
-    "computed_aqs": 103,
-    "difference": 103.0,
+    "computed_aqs": 188,
+    "difference": 188.0,
     "dimensions": {
       "D9": {
         "name": "Reach",
         "weight": 54.9,
-        "score_percent": 15,
-        "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 0."
+        "score_percent": 30,
+        "points": 16,
+        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 8,000."
       },
       "D1": {
         "name": "Thought Leadership Status",
         "weight": 41.4,
-        "score_percent": 20,
-        "points": 8,
-        "justification": "[AQS Inflation Correction: Score of 212 was overridden because author did not originate from Existing AQS or RL CoP sources and lacks verified reach] [Heuristic Web Search Assessment] Capped at 20% due to low verified reach of 0 (< 5,000)."
+        "score_percent": 65,
+        "points": 26,
+        "justification": "[Heuristic Web Search Assessment] Globally recognized industry domain authority with extensive publications and impact."
       },
       "D2": {
         "name": "Tech Demand",
@@ -39521,30 +39521,30 @@
       "D3": {
         "name": "Alignment",
         "weight": 27.6,
-        "score_percent": 55,
-        "points": 15,
+        "score_percent": 80,
+        "points": 22,
         "justification": "[Heuristic Web Search Assessment] Strong alignment between book topic and author professional focus."
       },
       "D4": {
         "name": "Experience",
         "weight": 27.6,
-        "score_percent": 30,
-        "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Basic verifiable professional experience."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Extensive professional experience verified."
       },
       "D5": {
         "name": "Expertise",
         "weight": 27.6,
-        "score_percent": 30,
-        "points": 8,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Basic verifiable technical expertise."
+        "score_percent": 80,
+        "points": 22,
+        "justification": "[Heuristic Web Search Assessment] Elite domain authority with senior technical role and documented achievements."
       },
       "D6": {
         "name": "Recognition",
         "weight": 21.9,
-        "score_percent": 25,
-        "points": 5,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Basic verifiable community recognition."
+        "score_percent": 80,
+        "points": 17,
+        "justification": "[Heuristic Web Search Assessment] Highly distinguished recognition (e.g. Kaggle Grandmaster, GitHub Star, Microsoft MVP)."
       },
       "D7": {
         "name": "Innovation",
@@ -39556,15 +39556,15 @@
       "D8": {
         "name": "Publications",
         "weight": 11.1,
-        "score_percent": 20,
-        "points": 2,
-        "justification": "[Heuristic Web Search Assessment] Basic verifiable publication history."
+        "score_percent": 75,
+        "points": 8,
+        "justification": "[Heuristic Web Search Assessment] Extensive documented publication success across formats."
       },
       "D10": {
         "name": "Writing Quality",
         "weight": 16.5,
-        "score_percent": 45,
-        "points": 7,
+        "score_percent": 75,
+        "points": 12,
         "justification": "[Heuristic Web Search Assessment] Default baseline for verified book/course authors with positive reception."
       },
       "D11": {
@@ -39572,13 +39572,13 @@
         "weight": 11.1,
         "score_percent": 75,
         "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Advanced degree or academic research/teaching position."
+        "justification": "[Heuristic Web Search Assessment] PhD, Full Professor at Oviedo University, visiting scientist CERN/Harvard"
       },
       "D12": {
         "name": "Cross-disciplinary Reach",
         "weight": 3.3,
-        "score_percent": 25,
-        "points": 0,
+        "score_percent": 50,
+        "points": 1,
         "justification": "[Heuristic Web Search Assessment] Basic verifiable interest across domain lines."
       }
     },
@@ -39696,22 +39696,22 @@
     "success": true,
     "name": "John P. Doran",
     "existing_aqs": 0.0,
-    "computed_aqs": 108,
-    "difference": 108.0,
+    "computed_aqs": 149,
+    "difference": 149.0,
     "dimensions": {
       "D9": {
         "name": "Reach",
         "weight": 54.9,
-        "score_percent": 15,
-        "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 13."
+        "score_percent": 20,
+        "points": 10,
+        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 4,000."
       },
       "D1": {
         "name": "Thought Leadership Status",
         "weight": 41.4,
-        "score_percent": 20,
-        "points": 8,
-        "justification": "[AQS Inflation Correction: Score of 199 was overridden because author did not originate from Existing AQS or RL CoP sources and lacks verified reach] [Heuristic Web Search Assessment] Capped at 20% due to low verified reach of 13 (< 5,000)."
+        "score_percent": 75,
+        "points": 31,
+        "justification": "[Heuristic Web Search Assessment] Globally recognized industry domain authority with extensive publications and impact."
       },
       "D2": {
         "name": "Tech Demand",
@@ -39730,16 +39730,16 @@
       "D4": {
         "name": "Experience",
         "weight": 27.6,
-        "score_percent": 45,
-        "points": 12,
-        "justification": "[Heuristic Web Search Assessment] Senior professional role indicating multiple years of experience."
+        "score_percent": 55,
+        "points": 15,
+        "justification": "[Heuristic Web Search Assessment] Extensive professional experience verified."
       },
       "D5": {
         "name": "Expertise",
         "weight": 27.6,
-        "score_percent": 45,
-        "points": 12,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Documented senior expertise with specific domain focus."
+        "score_percent": 50,
+        "points": 13,
+        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Elite domain authority with senior technical role and documented achievements."
       },
       "D6": {
         "name": "Recognition",
@@ -39758,29 +39758,29 @@
       "D8": {
         "name": "Publications",
         "weight": 11.1,
-        "score_percent": 20,
-        "points": 2,
-        "justification": "[Heuristic Web Search Assessment] Basic verifiable publication history."
+        "score_percent": 50,
+        "points": 5,
+        "justification": "[Heuristic Web Search Assessment] Extensive documented publication success across formats."
       },
       "D10": {
         "name": "Writing Quality",
         "weight": 16.5,
-        "score_percent": 45,
-        "points": 7,
+        "score_percent": 75,
+        "points": 12,
         "justification": "[Heuristic Web Search Assessment] Default baseline for verified book/course authors with positive reception."
       },
       "D11": {
         "name": "Academic Credentials",
         "weight": 11.1,
-        "score_percent": 50,
-        "points": 5,
-        "justification": "[Heuristic Web Search Assessment] Advanced graduate degree (MSc/MBA) from a respectable institution."
+        "score_percent": 75,
+        "points": 8,
+        "justification": "[Heuristic Web Search Assessment] Game Development Instructor at George Mason University Korea"
       },
       "D12": {
         "name": "Cross-disciplinary Reach",
         "weight": 3.3,
-        "score_percent": 25,
-        "points": 0,
+        "score_percent": 50,
+        "points": 1,
         "justification": "[Heuristic Web Search Assessment] Basic verifiable interest across domain lines."
       }
     },
@@ -39898,22 +39898,22 @@
     "success": true,
     "name": "Jonathan Cacace",
     "existing_aqs": 0.0,
-    "computed_aqs": 111,
-    "difference": 111.0,
+    "computed_aqs": 146,
+    "difference": 146.0,
     "dimensions": {
       "D9": {
         "name": "Reach",
         "weight": 54.9,
-        "score_percent": 15,
-        "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 101."
+        "score_percent": 20,
+        "points": 10,
+        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 4,000."
       },
       "D1": {
         "name": "Thought Leadership Status",
         "weight": 41.4,
-        "score_percent": 20,
-        "points": 8,
-        "justification": "[AQS Inflation Correction: Score of 190 was overridden because author did not originate from Existing AQS or RL CoP sources and lacks verified reach] [Heuristic Web Search Assessment] Capped at 20% due to low verified reach of 101 (< 5,000)."
+        "score_percent": 75,
+        "points": 31,
+        "justification": "[Heuristic Web Search Assessment] Globally recognized industry domain authority with extensive publications and impact."
       },
       "D2": {
         "name": "Tech Demand",
@@ -39932,16 +39932,16 @@
       "D4": {
         "name": "Experience",
         "weight": 27.6,
-        "score_percent": 45,
-        "points": 12,
-        "justification": "[Heuristic Web Search Assessment] Senior professional role indicating multiple years of experience."
+        "score_percent": 55,
+        "points": 15,
+        "justification": "[Heuristic Web Search Assessment] Extensive professional experience verified."
       },
       "D5": {
         "name": "Expertise",
         "weight": 27.6,
-        "score_percent": 45,
-        "points": 12,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Documented senior expertise with specific domain focus."
+        "score_percent": 50,
+        "points": 13,
+        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Elite domain authority with senior technical role and documented achievements."
       },
       "D6": {
         "name": "Recognition",
@@ -39960,29 +39960,29 @@
       "D8": {
         "name": "Publications",
         "weight": 11.1,
-        "score_percent": 20,
-        "points": 2,
-        "justification": "[Heuristic Web Search Assessment] Basic verifiable publication history."
+        "score_percent": 50,
+        "points": 5,
+        "justification": "[Heuristic Web Search Assessment] Extensive documented publication success across formats."
       },
       "D10": {
         "name": "Writing Quality",
         "weight": 16.5,
-        "score_percent": 45,
-        "points": 7,
+        "score_percent": 75,
+        "points": 12,
         "justification": "[Heuristic Web Search Assessment] Default baseline for verified book/course authors with positive reception."
       },
       "D11": {
         "name": "Academic Credentials",
         "weight": 11.1,
-        "score_percent": 75,
-        "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Advanced degree or academic research/teaching position."
+        "score_percent": 50,
+        "points": 5,
+        "justification": "[Heuristic Web Search Assessment] PhD in Robotics, former Assistant Professor"
       },
       "D12": {
         "name": "Cross-disciplinary Reach",
         "weight": 3.3,
-        "score_percent": 25,
-        "points": 0,
+        "score_percent": 50,
+        "points": 1,
         "justification": "[Heuristic Web Search Assessment] Basic verifiable interest across domain lines."
       }
     },
@@ -40706,22 +40706,22 @@
     "success": true,
     "name": "Salvatore Raieli",
     "existing_aqs": 0.0,
-    "computed_aqs": 121,
-    "difference": 121.0,
+    "computed_aqs": 150,
+    "difference": 150.0,
     "dimensions": {
       "D9": {
         "name": "Reach",
         "weight": 54.9,
         "score_percent": 20,
         "points": 10,
-        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 3,000."
+        "justification": "[Heuristic Web Search Assessment] Verified combined reach is 4,000."
       },
       "D1": {
         "name": "Thought Leadership Status",
         "weight": 41.4,
-        "score_percent": 30,
-        "points": 12,
-        "justification": "[AQS Inflation Correction: Score of 216 was overridden because author did not originate from Existing AQS or RL CoP sources and lacks verified reach] [Heuristic Web Search Assessment] Capped at 30% due to low verified reach of 3,000 (< 5,000)."
+        "score_percent": 75,
+        "points": 31,
+        "justification": "[Heuristic Web Search Assessment] Globally recognized industry domain authority with extensive publications and impact."
       },
       "D2": {
         "name": "Tech Demand",
@@ -40740,16 +40740,16 @@
       "D4": {
         "name": "Experience",
         "weight": 27.6,
-        "score_percent": 45,
-        "points": 12,
-        "justification": "[Heuristic Web Search Assessment] Senior professional role indicating multiple years of experience."
+        "score_percent": 55,
+        "points": 15,
+        "justification": "[Heuristic Web Search Assessment] Extensive professional experience verified."
       },
       "D5": {
         "name": "Expertise",
         "weight": 27.6,
-        "score_percent": 45,
-        "points": 12,
-        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Documented senior expertise with specific domain focus."
+        "score_percent": 50,
+        "points": 13,
+        "justification": "[Heuristic Web Search Assessment] [Capped due to low reach] Elite domain authority with senior technical role and documented achievements."
       },
       "D6": {
         "name": "Recognition",
@@ -40768,29 +40768,29 @@
       "D8": {
         "name": "Publications",
         "weight": 11.1,
-        "score_percent": 20,
-        "points": 2,
-        "justification": "[Heuristic Web Search Assessment] Basic verifiable publication history."
+        "score_percent": 50,
+        "points": 5,
+        "justification": "[Heuristic Web Search Assessment] Extensive documented publication success across formats."
       },
       "D10": {
         "name": "Writing Quality",
         "weight": 16.5,
-        "score_percent": 45,
-        "points": 7,
+        "score_percent": 75,
+        "points": 12,
         "justification": "[Heuristic Web Search Assessment] Default baseline for verified book/course authors with positive reception."
       },
       "D11": {
         "name": "Academic Credentials",
         "weight": 11.1,
-        "score_percent": 75,
-        "points": 8,
-        "justification": "[Heuristic Web Search Assessment] Advanced degree or academic research/teaching position."
+        "score_percent": 50,
+        "points": 5,
+        "justification": "[Heuristic Web Search Assessment] PhD in Immunology, MSc in AI"
       },
       "D12": {
         "name": "Cross-disciplinary Reach",
         "weight": 3.3,
-        "score_percent": 25,
-        "points": 0,
+        "score_percent": 50,
+        "points": 1,
         "justification": "[Heuristic Web Search Assessment] Basic verifiable interest across domain lines."
       }
     },

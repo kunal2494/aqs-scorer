@@ -19999,7 +19999,7 @@
   },
   {
     "success": true,
-    "name": "Peihsiu Yeh",
+    "name": "Tom Yeh",
     "existing_aqs": 0.0,
     "computed_aqs": 222,
     "difference": 222.0,
@@ -20090,7 +20090,7 @@
       }
     },
     "bio": "Tom Yeh is an Associate Professor of Computer Science at the University of Colorado Boulder, specializing in human computer interaction and its societal impacts.",
-    "title": "Matrix Multiplication Workbook",
+    "title": "Deep Learning Math Workbook",
     "links": {
       "linkedin": "",
       "github": "",
@@ -30909,92 +30909,92 @@
     "success": true,
     "name": "Mr. Henry Habib",
     "existing_aqs": 0.0,
-    "computed_aqs": 254,
-    "difference": 254.0,
+    "computed_aqs": 220,
+    "difference": 220.0,
     "dimensions": {
       "D1": {
         "name": "Thought Leadership Status",
         "weight": 41.4,
-        "score_percent": 85,
-        "points": 36,
-        "justification": "Bypassed LLM call: Loaded existing calibrated AQS score from RL CoP files."
+        "score_percent": 75,
+        "points": 31,
+        "justification": "Bypassed LLM call: Loaded existing calibrated AQS score from RL CoP files (adjusted to IT Rockstar cohort by request)."
       },
       "D2": {
         "name": "Tech Demand",
         "weight": 33.0,
-        "score_percent": 85,
-        "points": 29,
-        "justification": "Bypassed LLM call: Loaded existing calibrated AQS score from RL CoP files."
+        "score_percent": 75,
+        "points": 24,
+        "justification": "Bypassed LLM call: Loaded existing calibrated AQS score from RL CoP files (adjusted to IT Rockstar cohort by request)."
       },
       "D3": {
         "name": "Alignment",
         "weight": 27.6,
-        "score_percent": 85,
-        "points": 24,
-        "justification": "Bypassed LLM call: Loaded existing calibrated AQS score from RL CoP files."
+        "score_percent": 75,
+        "points": 20,
+        "justification": "Bypassed LLM call: Loaded existing calibrated AQS score from RL CoP files (adjusted to IT Rockstar cohort by request)."
       },
       "D4": {
         "name": "Experience",
         "weight": 27.6,
-        "score_percent": 85,
-        "points": 23,
-        "justification": "Bypassed LLM call: Loaded existing calibrated AQS score from RL CoP files."
+        "score_percent": 75,
+        "points": 20,
+        "justification": "Bypassed LLM call: Loaded existing calibrated AQS score from RL CoP files (adjusted to IT Rockstar cohort by request)."
       },
       "D5": {
         "name": "Expertise",
         "weight": 27.6,
-        "score_percent": 85,
-        "points": 23,
-        "justification": "Bypassed LLM call: Loaded existing calibrated AQS score from RL CoP files."
+        "score_percent": 75,
+        "points": 20,
+        "justification": "Bypassed LLM call: Loaded existing calibrated AQS score from RL CoP files (adjusted to IT Rockstar cohort by request)."
       },
       "D6": {
         "name": "Recognition",
         "weight": 21.9,
-        "score_percent": 85,
-        "points": 18,
-        "justification": "Bypassed LLM call: Loaded existing calibrated AQS score from RL CoP files."
+        "score_percent": 75,
+        "points": 16,
+        "justification": "Bypassed LLM call: Loaded existing calibrated AQS score from RL CoP files (adjusted to IT Rockstar cohort by request)."
       },
       "D7": {
         "name": "Innovation",
         "weight": 24.0,
-        "score_percent": 85,
-        "points": 20,
-        "justification": "Bypassed LLM call: Loaded existing calibrated AQS score from RL CoP files."
+        "score_percent": 75,
+        "points": 18,
+        "justification": "Bypassed LLM call: Loaded existing calibrated AQS score from RL CoP files (adjusted to IT Rockstar cohort by request)."
       },
       "D8": {
         "name": "Publications",
         "weight": 11.1,
-        "score_percent": 85,
-        "points": 9,
-        "justification": "Bypassed LLM call: Loaded existing calibrated AQS score from RL CoP files."
+        "score_percent": 75,
+        "points": 8,
+        "justification": "Bypassed LLM call: Loaded existing calibrated AQS score from RL CoP files (adjusted to IT Rockstar cohort by request)."
       },
       "D9": {
         "name": "Reach",
         "weight": 54.9,
-        "score_percent": 85,
-        "points": 47,
-        "justification": "Bypassed LLM call: Loaded existing calibrated AQS score from RL CoP files."
+        "score_percent": 75,
+        "points": 41,
+        "justification": "Bypassed LLM call: Loaded existing calibrated AQS score from RL CoP files (adjusted to IT Rockstar cohort by request)."
       },
       "D10": {
         "name": "Writing Quality",
         "weight": 16.5,
-        "score_percent": 85,
-        "points": 14,
-        "justification": "Bypassed LLM call: Loaded existing calibrated AQS score from RL CoP files."
+        "score_percent": 75,
+        "points": 12,
+        "justification": "Bypassed LLM call: Loaded existing calibrated AQS score from RL CoP files (adjusted to IT Rockstar cohort by request)."
       },
       "D11": {
         "name": "Academic Credentials",
         "weight": 11.1,
-        "score_percent": 85,
-        "points": 9,
-        "justification": "Bypassed LLM call: Loaded existing calibrated AQS score from RL CoP files."
+        "score_percent": 75,
+        "points": 8,
+        "justification": "Bypassed LLM call: Loaded existing calibrated AQS score from RL CoP files (adjusted to IT Rockstar cohort by request)."
       },
       "D12": {
         "name": "Cross-disciplinary Reach",
         "weight": 3.3,
-        "score_percent": 85,
+        "score_percent": 75,
         "points": 2,
-        "justification": "Bypassed LLM call: Loaded existing calibrated AQS score from RL CoP files."
+        "justification": "Bypassed LLM call: Loaded existing calibrated AQS score from RL CoP files (adjusted to IT Rockstar cohort by request)."
       }
     },
     "bio": "Henry Habib advises F500 companies on analytics and operations, with a particular focus on building intelligent AI-driven solutions, tools, and agents to create impact and improve productivity. He teaches online courses on how to build AI agents and automations for work, as well as other Gen AI topics, amassing a network of more than 400K students. He also facilitates technical programs at businesses and governmental organizations. A proponent of the no-code and Gen AI revolution, he believes that anyone can now create powerful and intelligent applications to automate their work without any deep technical skills. He also runs The Intelligent Worker, a platform for teaching working professionals how to be more productive with Gen AI, no-code, automation, and other technologies, with courses and a free newsletter. He is also a speaker on Gen AI to many large F500 organizations. As an instructor, Henry is passionate about teaching students how to succeed on any topic related to Gen AI, automation, no-code, data, and productivity. He does this by creating courses with engaging and helpful content and always being around to answer any questions. Henry resides in Toronto, Canada, with his wife, and enjoys building random AI apps and playing tennis in his free time.",
